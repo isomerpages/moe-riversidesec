@@ -4,16 +4,12 @@ permalink: /academic-curriculum/computer-applications
 description: ""
 ---
 COMPUTER APPLICATIONS
-=====================
+=====================   
 
+The Computer Applications unit aims to nurture confident and discerning IT savvy individuals who are lifelong learners.  
   
 
-####   
-
-#### The Computer Applications unit aims to nurture confident and discerning IT savvy individuals who are lifelong learners.  
-  
-
-####  The approach to the teaching and learning of Computer Applications involves:  
+The approach to the teaching and learning of Computer Applications involves:  
 1.      preparing students to be technologically savvy for tertiary education and work;  
 2.      developing 21st Century Competencies skills such as critical thinking, information processing and effective communication  
   
