@@ -6,7 +6,7 @@ third_nav_title: Staff Directory
 ---
 # FORM TEACHERS
 
-## Secondary 1
+**Secondary 1**
 
 Assistant Year Head: Ms Cindy Chai (chai_chang_wei@moe.edu.sg)
 
@@ -25,7 +25,7 @@ Assistant Year Head: Ms Cindy Chai (chai_chang_wei@moe.edu.sg)
 
 
 
-## Secondary 2
+**Secondary 2**
 
 Year Head: Mrs Lim-Chua Hwee Sze (chua\_hwee\_sze@moe.edu.sg)
 
@@ -40,7 +40,7 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua\_hwee\_sze@moe.edu.sg)
 | Sec 2 Innovation    | Mr Liao Jun Jie<br>Mdm Liu Liping     | liao_junjie@moe.edu.sg<br>liu_liping@moe.edu.sg     |
 | Sec 2 Tenacity    | Mr Lim Ming Han<br>Mdm Nithya     | lim_ming_han@moe.edu.sg<br>nithya_sukumaran@moe.edu.sg     |
 
-## Secondary 3
+**Secondary 3**
 
 Year Head (Internal): Mr Alvin Cai (cai_gaoyong_alvin@moe.edu.sg)
 
@@ -54,9 +54,10 @@ Year Head (Internal): Mr Alvin Cai (cai_gaoyong_alvin@moe.edu.sg)
 | Sec 3 Innovation     | Mr Joshua Pang<br>Mdm Angela Tong     | pang_zihao_joshua_timothy@moe.edu.sg<br>tong_geok_him@moe.edu.sg     |
 | Sec 3 Tenacity     | Mrs Eileen Yap<br>Mr Lin Shaojie<br>Mdm Amutham     | ong_yi_lin_eileen@moe.edu.sg<br>lin_shaojie@moe.edu.sg<br>amutham_saravana_kumar@moe.edu.sg     |
 
-## Secondary 4 and 5
+**Secondary 4 and 5**
 
 Assistant Year Head: Mrs Sim-Lee Xinrong (lee_xinrong@moe.edu.sg)
+
 
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
