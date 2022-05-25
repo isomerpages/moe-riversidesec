@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
+  - title: Academic Curriculum
+    collection: academic-curriculum
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
