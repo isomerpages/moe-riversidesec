@@ -21,9 +21,6 @@ The approach to the teaching and learning of English Language and Literature inv
 
 **English Language and Literature Experience (ELLE)**  
 This week-long programme provides students opportunites to experience language outside of the classroom context, as they participate in a series of fun language and literature-focused activities.  
-
 <br>
-
 **National Schools Literature Festival (NSLF)**  
-
 We participate in the yearly NSLF to provide students with the platform to engage with the literature texts they are studying in multimodal ways.
