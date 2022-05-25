@@ -56,6 +56,16 @@ Year Head (Internal): Mr Alvin Cai (cai_gaoyong_alvin@moe.edu.sg)
 
 ## Secondary 4 and 5
 
+Assistant Year Head: Mrs Sim-Lee Xinrong (lee_xinrong@moe.edu.sg)
+
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| Sec 1     | Text     | Text     |
+| Sec 4/1     | Miss Fairuz<br>Mr Joel Lee     | siti_fairuz_mohamad_ramdan@moe.edu.sg<br>lee_jin_wee@moe.edu.sg     |
+| Sec 4/2     | Mr Tan Thiam Soon<br>Mr Fauzi<br>Ms Natasha     | tan_thiam_soon@moe.edu.sg<br>nur_fauzi_abu_bakar@moe.edu.sg<br>natasha_imran@moe.edu.sg     |
+| Sec 4/3     | Ms Goh Hui Lin<br>Mr Tay Wee Soo     | goh_hui_lin@moe.edu.sg<br>tay_wee_soo@moe.edu.sg     |
+| Sec 4/4    | Mr Chee Jih Heong<br>Mrs Kumar<br>Mdm Zurianee     | chee_jih_heong@moe.edu.sg<br>sundaresan_muthuselvi@moe.edu.sg<br>zurianee_zainal@moe.edu.sg     |
+| Sec 4/5     | Ms Chong Pey Yi<br>Mr Lawrance Chua     | chong_pey_yi@moe.edu.sg<br>chua_kok_weng_lawrance@moe.edu.sg     |
+| Sec 4/6     | Ms Shen Lifeng<br>Mrs Lee-Gan Yen Ping     | shen_lifeng@moe.edu.sg<br>gan_yen_ping@moe.edu.sg     |
+| Sec 4/7     | Miss Tang Wai Yin<br>Mdm Nisa     | tang_wai_yin_a@moe.edu.sg<br>nur_khairunisa_johari@moe.edu.sg     |
+| Sec 5/1     | Mr Fairiz<br>Mdm Julaiha     | nurul_fairiz_abdellah@moe.edu.sg<br>julaiha_kumaron@moe.edu.sg     |
+| Sec 5/2     | Ms Kew Sook Chiun<br>Mr Job     | kew_sook_chiun@moe.edu.sg<br>job_samyrajoo@moe.edu.sg     |
