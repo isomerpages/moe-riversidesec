@@ -2,5 +2,6 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Design and Technology.md
       - Computer Applications.md
       - Aesthetics.md
