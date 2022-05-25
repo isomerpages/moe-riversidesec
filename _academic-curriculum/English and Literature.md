@@ -24,6 +24,6 @@ This week-long programme provides students opportunites to experience language o
 
 <br>
 
-**National Schools Literature Festival (NSLF)  **
+**National Schools Literature Festival (NSLF)**  
 
 We participate in the yearly NSLF to provide students with the platform to engage with the literature texts they are studying in multimodal ways.
