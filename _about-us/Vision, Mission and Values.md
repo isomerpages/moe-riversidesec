@@ -13,19 +13,15 @@ description: ""
 
 #### To nurture all-round individuals of integrity and grace who are ready to face global challenges
 
-  
-
 ### Values
 
 #### The RS SPIRIT
 
 
 
-| R | Respect |  **Our Way of Life** |
+| R | Respect |  Our Way of Life |
 | -------- | -------- | -------- |
 
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-
-
