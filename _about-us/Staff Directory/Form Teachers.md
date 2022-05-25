@@ -42,9 +42,17 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua\_hwee\_sze@moe.edu.sg)
 
 ## Secondary 3
 
+Year Head (Internal): Mr Alvin Cai (cai_gaoyong_alvin@moe.edu.sg)
+
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| Sec 1     | Text     | Text     |
+| Sec 3 Respect     | Mdm Baya<br>Mrs Mendy Kok     | siti_noorbaya@moe.edu.sg<br>kok_li_eng@moe.edu.sg     |
+| Sec 3 Service     | Miss Hesley<br>Mr R. Bala     | hesley_ismail@moe.edu.sg<br>balasubramaniam_a@moe.edu.sg     |
+| Sec 3 Passion     | Mdm Haslinda<br>Mr John Yap     | haslinda_shafawi@moe.edu.sg<br>yap_kok_wai_john@moe.edu.sg     |
+| Sec 3 Integrity     | Mdm Lis<br>Mr N. Bala     | lis_hartini_hut@moe.edu.sg<br>n_balasundaram@moe.edu.sg     |
+| Sec 3 Responsibility     | Miss Haryani<br>Ms Nithiyaa     | haryani_hamidan@moe.edu.sg<br>nithiyaa_muthu_kumar@moe.edu.sg     |
+| Sec 3 Innovation     | Mr Joshua Pang<br>Mdm Angela Tong     | pang_zihao_joshua_timothy@moe.edu.sg<br>tong_geok_him@moe.edu.sg     |
+| Sec 3 Tenacity     | Mrs Eileen Yap<br>Mr Lin Shaojie<br>Mdm Amutham     | ong_yi_lin_eileen@moe.edu.sg<br>lin_shaojie@moe.edu.sg<br>amutham_saravana_kumar@moe.edu.sg     |
 
 ## Secondary 4 and 5
 
