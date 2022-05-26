@@ -15,7 +15,7 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 
 ![Direct School Admission SELECTION CRITERIA AND PROCESS](/images/Slide2.jpg)
 
-* Detailed information can be downloaded from Riverside Secondary School 2022 Direct School Admission Information.
+* Detailed information can be downloaded from [Riverside Secondary School 2022 Direct School Admission Information.](/files/Riverside%20Secondary%20School%202022%20Direct%20School%20Admission%20Information%204%20May%202022.pdf)
 <br> You can also visit our Riverside Secondary School DSA website to hear more about the experiences of our current DSA students.
 <br>
 
