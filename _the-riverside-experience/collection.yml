@@ -2,4 +2,5 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - The Riverside Experience/.keep
       - The Riverside Experience.md
