@@ -22,12 +22,12 @@ From 2020, Riverside Secondary School is one of the 28 Full Subject-Based Bandin
 
 Under FSBB, students in lower secondary are offered subjects in two categories.
 
- Common Curriculum, which students will take together with classmates in the same form class:
+**Common Curriculum**, which students will take together with classmates in the same form class:
 
 Art; Character and Citizenship Education (CCE); Design & Technology (D&T); Food and Consumer Education (FCE); Music; Physical Education (PE); ALP and LLP lessons
 
  
-Subject-based banding (SBB), which eligible students are offered at a higher level:
+**Subject-based banding (SBB),** which eligible students are offered at a higher level:
 
 English; Humanities (Geography/History/ Literature in English); Mathematics; Mother Tongue and Science
 
@@ -36,10 +36,9 @@ English; Humanities (Geography/History/ Literature in English); Mathematics; Mot
 Under FSBB, students in upper secondary are offered subjects in two categories.
 
 
-Common Curriculum comprising Character and Citizenship Education (CCE) and Physical Education (PE);
+**Common Curriculum** comprising Character and Citizenship Education (CCE) and Physical Education (PE);
 
 
-
-Subject-based banding (SBB) comprising English; Humanities (Geography/History/Social Studies/Literature in English); Mathematics; Mother Tongue and Science
+**Subject-based banding (SBB)** comprising English; Humanities (Geography/History/Social Studies/Literature in English); Mathematics; Mother Tongue and Science
 
 For more information please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
