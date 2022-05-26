@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: Check out our highlights
-          url: ""
+          url: /highlights/2021-gce-o-level-briefing-slides-for-students
         - title: Useful Links
           description: important
           url: ""
@@ -22,4 +22,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
