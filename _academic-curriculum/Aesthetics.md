@@ -16,8 +16,7 @@ The student-centric approach to the teaching and learning of art and music is in
 3.      Experiential Learning
 
 ####  Key Programmes
-
-####   
+   
 **Skills-based learning**  
 Students learn various art forms such as drawing and painting, copper tooling, photography, printmaking and many more. Students learn the keyboard, guitar, classroom percussion as well as digital music over the two years of music education and have opportunities to put up performances in school.  
 
