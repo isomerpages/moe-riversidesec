@@ -2,8 +2,8 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Humanities.md
       - Aesthetics.md
       - Computer Applications.md
       - Design and Technology.md
       - English and Literature.md
+      - Humanities.md
