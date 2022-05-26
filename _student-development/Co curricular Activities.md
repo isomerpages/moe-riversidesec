@@ -26,9 +26,7 @@ We offer a range of 20 CCAs in the different domains:
 
 <br>
 
-_AV Crew is offered as a 2nd CCA._ 
-
-[Safety Guidelines for Students During PE & CCA](https://riversidesec.moe.edu.sg/qql/slot/u178/Student%20Development/CCA/Safety%20Guidelines%20for%20students%20during%20PE%20%20CCA.pdf)
+_AV Crew is offered as a 2nd CCA._ [Safety Guidelines for Students During PE & CCA](https://riversidesec.moe.edu.sg/qql/slot/u178/Student%20Development/CCA/Safety%20Guidelines%20for%20students%20during%20PE%20%20CCA.pdf)
 
 ![The Boys' Brigade student students posing for one final shot.](/images/The%20Boys'%20Brigade.jpeg)
 The Boys' Brigade student students posing for one final shot before passing the baton to their juniors
