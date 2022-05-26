@@ -2,6 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Co curricular Activities.md
-      - Student Leadership.md
       - Character and Citizenship Education.md
+      - Student Leadership.md
+      - Co curricular Activities.md
