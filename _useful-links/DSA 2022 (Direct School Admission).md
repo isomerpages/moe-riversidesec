@@ -22,7 +22,9 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 * Application for DSA-Sec will be through the online **DSA-Sec Portal.** 
 <br>The application is free-of-charge.
 <br>
-For more information on DSA-Sec, please refer to the [MOE website](https://www.moe.gov.sg/secondary/dsa)
+For more information on DSA-Sec, please refer to the
+
+[MOE website](https://www.moe.gov.sg/secondary/dsa)
 
 
 **Summary of Timeline for DSA Application @ Riverside Secondary School:**
