@@ -3,6 +3,7 @@ title: Student Leadership
 permalink: /student-development/student-leadership
 description: ""
 ---
+
 STUDENT LEADERSHIP
 ==================
 
@@ -28,3 +29,8 @@ Student leadership development at Riverside is guided by the five practices of e
 
 _Source: The Student Leadership Challenge, The Five Practices for Exemplary Leaders_
 
+![Our Student Council President and Vice President leading the school in the school song](/images/Our%20Student%20Council%20President%20and%20Vice%20President%20leading%20the%20school%20in%20singing%20the%20school%20song.jpeg)
+Our Student Council President and Vice President leading the school in the school song, *My Best and More*, at the annual Speech and Prize Giving Day
+
+![Our 20th Student Council at the Student Leaders' Investiture](/images/20th%20Student%20Council.jpeg)
+"We will learn and serve with honour, pride, courage and integrity." -- Our 20th Student Council at the Student Leaders' Investiture
