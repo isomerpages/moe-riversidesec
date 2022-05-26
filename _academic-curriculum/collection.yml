@@ -2,14 +2,14 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Science.md
-      - Principles of Accounts.md
-      - Physical Education.md
-      - Nutrition and Food Science.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
       - Aesthetics.md
       - Computer Applications.md
       - Design and Technology.md
       - English and Literature.md
       - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Nutrition and Food Science.md
+      - Physical Education.md
+      - Principles of Accounts.md
+      - Science.md
