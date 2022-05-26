@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Science.md
       - Principles of Accounts.md
       - Physical Education.md
       - Nutrition and Food Science.md
