@@ -16,7 +16,7 @@ Global Citizenship Education (GCE) is a way of understanding, acting and relatin
   
 The CSI approach is used to make learning relevant and authentic as it allows students to explore global issues, learn to empathise and be empowered as they initiate projects.
 
-tudents critically inquire:  
+Students critically inquire:  
 
 1.     _Why am I doing this?_                        Understanding the subject matter.  
 
