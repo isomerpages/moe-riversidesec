@@ -2,7 +2,6 @@ collections:
   the-riverside-experience:
     output: true
     order:
-      - Personalised Digital Learning Programme.md
       - The Riverside Experience/Personalised Digital Learning Programme.md
       - The Riverside Experience/.keep
       - The Riverside Experience.md
