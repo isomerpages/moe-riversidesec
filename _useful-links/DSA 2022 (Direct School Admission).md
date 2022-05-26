@@ -23,3 +23,17 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 <br>The application is free-of-charge.
 <br>
 For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
+
+**Summary of Timeline for DSA Application @ Riverside Secondary School:**
+
+
+
+| Date | Events |
+| -------- | -------- | 
+| **5 May 2022, 11am - 1 Jun 2022, 3pm**     | Application Period     |
+| **12 July 2022**   | Applications will be notified by email     |
+| **22 Jul 2022 - 12 Aug 2022**     | Auditions / interviews for short-listed applicants     |
+| **12 Sep 2022**     | Audition / interview results will be notified to applicants via email     |
+
+
+
