@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - MOE Sexualty Education.md
-      - Values in Action.md
       - Character and Citizenship Education.md
       - Student Leadership.md
       - Co curricular Activities.md
+      - Values in Action.md
+      - MOE Sexualty Education.md
