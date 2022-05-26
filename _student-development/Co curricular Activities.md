@@ -31,3 +31,14 @@ _AV Crew is offered as a 2nd CCA._
 
 [Safety Guidelines for Students During PE & CCA](https://riversidesec.moe.edu.sg/qql/slot/u178/Student%20Development/CCA/Safety%20Guidelines%20for%20students%20during%20PE%20%20CCA.pdf)
 
+![The Boys' Brigade student students posing for one final shot.](/images/The%20Boys'%20Brigade.jpeg)
+The Boys' Brigade student students posing for one final shot before passing the baton to their juniors
+
+![Our passion for Chinese Dance continues in spite of the odds!](/images/Our%20passion%20for%20Chinese%20Dance%20continues%20in%20spite%20of%20the%20odds!.jpg)
+Our passion for Chinese Dance continues in spite of the odds!
+
+![Training for the Softball team takes places at the school's AstroTurf](/images/Training%20for%20the%20Softball%20team%20takes%20place%20at%20the%20school%20astroturf.jpg)
+Training for the Softball team takes places at the school's AstroTurf
+
+![Robotics Club members learning to fly drones in the airspace above the school compound](/images/Robotics%20Club%20members%20learning%20to%20fly%20drones.jpg)
+Robotics Club members learning to fly drones in the airspace above the school compound
