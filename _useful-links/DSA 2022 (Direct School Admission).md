@@ -11,3 +11,7 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 
 ![Direct School Admission Criteria](/images/Slide1.jpg)
 
+## SELECTION CRITERIA AND PROCESS
+
+![Direct School Admission SELECTION CRITERIA AND PROCESS](/images/Slide2.jpg)
+
