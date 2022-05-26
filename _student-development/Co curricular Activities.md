@@ -5,8 +5,7 @@ description: ""
 ---
 CO-CURRICULAR ACTIVITIES
 ========================
-
-####   
+ 
 Co-curricular Activities at Riverside aims to develop students of good character and value, equipped with skills and competencies in pursuit of their passions to lead a meaningful and purposeful life for themselves, and reach out to others.  
   
 
