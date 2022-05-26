@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - For Parents.md
       - DSA 2022 (Direct School Admission).md
       - National Digital Literacy Portal.md
       - For Students.md
+      - For Parents.md
