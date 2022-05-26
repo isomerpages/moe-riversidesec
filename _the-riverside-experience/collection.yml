@@ -1,4 +1,5 @@
 collections:
   the-riverside-experience:
     output: true
-    order: []
+    order:
+      - The Riverside Experience.md
