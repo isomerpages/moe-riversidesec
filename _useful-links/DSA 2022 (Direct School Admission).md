@@ -16,13 +16,13 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 ![Direct School Admission SELECTION CRITERIA AND PROCESS](/images/Slide2.jpg)
 
 * Detailed information can be downloaded from [Riverside Secondary School 2022 Direct School Admission Information.](/files/Riverside%20Secondary%20School%202022%20Direct%20School%20Admission%20Information%204%20May%202022.pdf)
-<br> You can also visit our Riverside Secondary School DSA website to hear more about the experiences of our current DSA students.
+<br> You can also visit our [Riverside Secondary School DSA website](https://sites.google.com/moe.edu.sg/rss-dsa/home) to hear more about the experiences of our current DSA students.
 <br>
 
-* Application for DSA-Sec will be through the online DSA-Sec Portal. 
+* Application for DSA-Sec will be through the online **DSA-Sec Portal.** 
 <br>The application is free-of-charge.
 <br>
-For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
+For more information on DSA-Sec, please refer to the [MOE website](https://www.moe.gov.sg/secondary/dsa)
 
 **Summary of Timeline for DSA Application @ Riverside Secondary School:**
 
