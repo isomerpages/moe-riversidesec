@@ -23,6 +23,6 @@ Students work collaboratively to solve a case by applying scientific and mathema
 
 **Sustainability Activities**  
 To shift towards more sustainable lifestyles, students created their own bioplastics and electroplated their unwanted metal objects with copper using electrolysis, and upcycled them into more attractive accessories.  
- 
+<br>
 **Competitions**  
 Selected students participate in various competitions such as Elementz Science Project Competition and Science Olympiad Competitions to deepen their understanding in Science.
