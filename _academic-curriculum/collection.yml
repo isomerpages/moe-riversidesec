@@ -2,6 +2,7 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Nutrition and Food Science.md
       - Mother Tongue Languages.md
       - Mathematics.md
       - Aesthetics.md
