@@ -24,6 +24,7 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 <br>
 For more information on DSA-Sec, please refer to the [MOE website](https://www.moe.gov.sg/secondary/dsa)
 
+
 **Summary of Timeline for DSA Application @ Riverside Secondary School:**
 
 
