@@ -35,5 +35,4 @@ For more information on DSA-Sec, please refer to the MOE website at https://www.
 | **22 Jul 2022 - 12 Aug 2022**     | Auditions / interviews for short-listed applicants     |
 | **12 Sep 2022**     | Audition / interview results will be notified to applicants via email     |
 
-
-
+For further enquiries, you may contact us at RIVERSIDE_SS@moe.edu.sg or 62699631 (General Office).
