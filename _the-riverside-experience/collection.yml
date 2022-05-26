@@ -2,7 +2,6 @@ collections:
   the-riverside-experience:
     output: true
     order:
-      - The Riverside Experience.md
       - The Riverside Experience/Full Subject Based Banding.md
       - The Riverside Experience/.keep
       - The Riverside Experience/Personalised Digital Learning Programme.md
