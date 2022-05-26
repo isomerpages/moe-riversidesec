@@ -7,10 +7,10 @@ locations:
   - address:
       - 3 Woodlands Street 81
       - Riverside Secondary School
-      - Singapore 738524
+      - "Singapore 738524 "
     operating_hours: []
     maps_link: ""
-    title: Riverside Secondary School
+    title: "Riverside Secondary School "
 contacts:
   - content:
       - phone: +65 6269 9631
