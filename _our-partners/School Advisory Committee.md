@@ -10,7 +10,9 @@ SCHOOL ADVISORY COMMITTEE
 
 The School Advisory Committee (SAC) supports our structures and programmes and enhances our connections with the larger community.
 
-![School Advisory Committee having a meeting](/images/SAC.jpg)
+<img src="/images/SAC.jpg"  
+style="width:60%">
+
 From left, clockwise: **Miss Tham Yoke Chun** (Honorary Secretary, Principal); **Mdm Linda Yeo** (Vice-principal); **Mr Derick Wong** (Vice-principal); **Dr Daniel Chia** (Chairman); **Mr Chung See Fook** (Honorary Treasurer); **Mr Eugene Lim** (Vice-chairman); **Mr T Thambyrajah** (Member); **Ms Low Yi Hui** (Member, Alumni Chairperson)
 
 "_… Through the leadership of the principal, the dedication and commitment of the teachers and the hard work of the students, the school has become the premier school in the north of Singapore._
