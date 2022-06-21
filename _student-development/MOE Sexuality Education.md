@@ -3,7 +3,6 @@ title: MOE Sexuality Education
 permalink: /student-development/moe-sexuality-education
 description: ""
 ---
-
 MOE SEXUALITY EDUCATION
 =======================
 
@@ -89,11 +88,11 @@ At Riverside Secondary School, the eTeens programme will be implemented as follo
 
   
 
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form (Annex A). This form will be distributed to parents through Parents Gateway and is also downloadable [here](https://riversidesec.moe.edu.sg/qql/slot/u178/Student%20Development/MOE%20Sexuality%20Education/Annex%20A_Parent%20Opt-out%20Form%202022.pdf).
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form (Annex A). This form will be distributed to parents through Parents Gateway and is also downloadable [here](/files/Annex%20A_Parent%20Opt-out%20Form%202022.pdf).
 
   
 
-12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form (Annex B). This form will be distributed to parents through Parents Gateway and is also downloadable [here](https://riversidesec.moe.edu.sg/qql/slot/u178/Student%20Development/MOE%20Sexuality%20Education/Annex%20B_eTeens%20Opt-out%20Form%202022.pdf).
+12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form (Annex B). This form will be distributed to parents through Parents Gateway and is also downloadable [here](/files/Annex%20B_eTeens%20Opt-out%20Form%202022.pdf).
 
   
 
