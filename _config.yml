@@ -3,7 +3,7 @@ url: ""
 favicon: /images/School Crest.png
 colors:
   primary-color: "#252b5d"
-  secondary-color: "#ac700c"
+  secondary-color: "#790f13"
   media-colors:
     - title: media-color-one
       color: "#49759a"
