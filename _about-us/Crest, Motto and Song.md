@@ -5,9 +5,10 @@ description: ""
 ---
 # CREST, MOTTO AND SONG
 
-### School Crest
+## School Crest
 
-![School Crest](/images/School%20Crest.png)
+<img src="/images/School%20Crest.png"  
+style="width:40%">
 
 The blue ‘C’ on the left denotes the school as a caring community in a challenging learning environment nurturing the total development of the Riversidian.
    
@@ -16,13 +17,13 @@ The red circle represents the focal point of the school which is the all-round d
 
 As the Riversidian journeys through his years in the school, he will imbibe values and lifeskills that will impel him to leap forward and embrace the global challenges of tomorrow.
 
-### School Motto
+## School Motto
 
-## My Best and More
+#### My Best and More
 
-### School Song
+## School Song
 
-### My Best and More
+#### My Best and More
 
 *Lyrics by O. J. Balasingam, Music by Adeline Wong*
 
@@ -45,4 +46,3 @@ My best and more,
 Believing in our hearts and will  
 My best and more,  
 Striving until time stands still
-
