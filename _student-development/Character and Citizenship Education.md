@@ -21,7 +21,8 @@ CCE content covers the following areas:
   
 The learning of CCE takes place in weekly CCE lessons and is also integrated into school-wide experiences like CCAs and NE commemorative days. The learning is further supported by a caring and enabling school environment that is built on positive teacher-student relationships, and strong peer support and relationships.
 
-![Behind the scenes for 'morning assembly' sharing on values](/images/Behind%20the%20scenes%20for%20'morning%20assembly'%20sharing%20on%20values.jpeg)
+<img src="/images/Behind%20the%20scenes%20for%20'morning%20assembly'%20sharing%20on%20values.jpeg"  
+style="width:75%">
 Behind the scenes for 'morning assembly' sharing on values
 
 <br>
