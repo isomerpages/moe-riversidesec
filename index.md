@@ -15,10 +15,4 @@ sections:
         - title: Useful Links
           description: Click here for useful links!
           url: /useful-links/dsa-2022-direct-school-admission
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
