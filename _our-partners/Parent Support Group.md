@@ -10,16 +10,7 @@ PARENT SUPPORT GROUP
 
 The Parent Support Group (PSG) contributes towards the holistic development of the students through deeper parental involvement in school programmes and activities. The PSG also provides a platform for communication and networking among parents.
 
-<img src="/images/Parent%20Support%20Group%201.jpg"  
-style="width:40%">
-
-
-<img src="/images/Parent%20Support%20Group%202.jpg"  
-style="width:40%">
-
-
-<img src="/images/Parent%20Support%20Group%203.jpg"  
-style="width:40%">
+![Parent Support Group](/images/Parent%20Support%20Group.png)
 
 **2022 Riverside PSG Executive Committee**
 
