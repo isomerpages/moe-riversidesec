@@ -1,9 +1,9 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
 ---
-# SCHOOL HISTORY
+
 **From 1987 to 1996**
 
 Riverside Secondary School had its humble beginnings in 1987 at the site of Fuchun Secondary School under the charge of its principal, Mrs Ngiam Geak Kim. There were nine teachers and two non-academic staff members with the first batch of Secondary One students.
