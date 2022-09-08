@@ -1,13 +1,9 @@
 ---
 title: Student Leadership
-permalink: /student-development/student-leadership
+permalink: /student-development/student-leadership/
 description: ""
 ---
 
-STUDENT LEADERSHIP
-==================
-
-  
 
 Student leadership at Riverside is based on the belief that all students have the potential to be leaders in their own right. All students journey to discover their strengths under the guidance of teachers. We aim to nurture students who are able to exercise self, peer and thought leadership in their area of influence. Councillors, sports leaders, CCE champs, CCA leaders and Class Committee Exco learn how to positively influence others to achieve a shared goal in both the school and community. The Student Council represents the pinnacle of student leadership and represents the student population in the school.
 
