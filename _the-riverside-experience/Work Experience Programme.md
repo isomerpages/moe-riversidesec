@@ -1,10 +1,8 @@
 ---
 title: Work Experience Programme
-permalink: /the-riverside-experience/work-experience-programme
+permalink: /the-riverside-experience/work-experience-programme/
 description: ""
 ---
-WORK EXPERIENCE PROGRAMME
-=========================
 
 
 
