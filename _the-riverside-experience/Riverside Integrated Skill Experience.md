@@ -1,10 +1,9 @@
 ---
 title: Riverside Integrated Skill Experience
-permalink: /the-riverside-experience/riverside-integrated-skills-experience
+permalink: /the-riverside-experience/riverside-integrated-skills-experience/
 description: ""
 ---
-RIVERSIDE INTEGRATED SKILLS EXPERIENCE
-====================================== 
+
 
   
 
