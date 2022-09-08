@@ -1,12 +1,9 @@
 ---
 title: Aesthetics
-permalink: /academic-curriculum/aesthetics
+permalink: /academic-curriculum/aesthetics/
 description: ""
 ---
-AESTHETICS
-==========
 
-  
 The Aesthetics department aims to ensure students have the joy in learning art and music so that they can appreciate the arts in their lives and contribute to society through various art forms. We also endeavour to promote the spirit of experiential learning and a thinking and creative culture.  
   
 
