@@ -1,10 +1,9 @@
 ---
 title: Science
-permalink: /academic-curriculum/science
+permalink: /academic-curriculum/science/
 description: ""
 ---
-SCIENCE
-=======
+
 
   The Science department aims to equip students with scientific knowledge and skills that are relevant and useful in their daily lives.  
   
