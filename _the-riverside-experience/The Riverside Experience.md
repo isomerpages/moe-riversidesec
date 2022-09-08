@@ -1,14 +1,8 @@
 ---
 title: The Riverside Experience
-permalink: /the-riverside-experience
+permalink: /the-riverside-experience/
 description: ""
 ---
-
-
-THE RIVERSIDE EXPERIENCE
-========================
-
-  
 
 Through the distinctive offerings and experiences at Riverside Secondary, we envision our graduates to be 
 
