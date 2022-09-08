@@ -1,10 +1,9 @@
 ---
 title: Full Subject Based Banding
-permalink: /the-riverside-experience/full-subject-based-banding
+permalink: /the-riverside-experience/full-subject-based-banding/
 description: ""
 ---
-FULL SUBJECT BASED BANDING
-==========================
+
 
 
 Riverside Secondary embarked on subject-based banding (SBB) from 2017, as part of schools in Phase 1. SBB allows greater flexibility of subject offerings to students who perform well in subjects such as English, Mother Tongue, Mathematics and Science.
