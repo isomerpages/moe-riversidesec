@@ -2,7 +2,7 @@
 layout: homepage
 title: Riverside Secondary School
 description: Riverside Secondary School
-image: /images/isomer-logo.svg
+image: /images/school logo.png
 permalink: /
 notification: ""
 sections:
@@ -16,4 +16,5 @@ sections:
           description: Click here for useful links!
           url: /useful-links/dsa-2022-direct-school-admission
 ---
+
 
