@@ -1,10 +1,8 @@
 ---
 title: Nutrition and Food Science
-permalink: /academic-curriculum/nutrition-and-food-science
+permalink: /academic-curriculum/nutrition-and-food-science/
 description: ""
 ---
-NUTRITION AND FOOD SCIENCE
-==========================
 
 The Nutrition and Food Science Unit aims to nurture concerned citizens who take an active role in bettering the lives of those around them through their knowledge in nutrition and health, food literacy and food science.  
   
