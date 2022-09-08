@@ -1,10 +1,9 @@
 ---
 title: Physical Education
-permalink: /academic-curriculum/physical-education
+permalink: /academic-curriculum/physical-education/
 description: ""
 ---
-PHYSICAL EDUCATION
-==================
+
 The Physical Education department aims to equip every student with skills and knowledge, anchored on good values to be physically competent in enjoying a lifetime of healthy living safely.  
   
 
