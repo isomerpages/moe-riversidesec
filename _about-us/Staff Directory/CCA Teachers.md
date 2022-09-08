@@ -1,10 +1,9 @@
 ---
 title: CCA Teachers
-permalink: /about-us/staff-directory/cca-teachers
+permalink: /about-us/staff-directory/cca-teachers/
 description: ""
 third_nav_title: Staff Directory
 ---
-# CCA TEACHERS
 
 **Clubs and Societies**
 
