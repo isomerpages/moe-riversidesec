@@ -3,12 +3,11 @@ title: Humanities
 permalink: /academic-curriculum/humanities/
 description: ""
 ---
-
 The Humanities department aims to develop our students to become citizens of the world, who understand and appreciate diversity and global events.        
 
 The approach to the teaching and learning of Humanities involves:  
 1.      Inquiry based approach to allow students to critically evaluate and analyse information so as to deepen 
-their understanding of the subject matter
+their understanding of the subject matter <br>
 2.      Paul's Wheel of Reasoning and Socratic Questioning so that students continue to reflect critically on the curriculum.            
 
 ####   Key Programmes  
