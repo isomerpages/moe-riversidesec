@@ -3,7 +3,7 @@ url: https://riversidesec.moe.edu.sg
 favicon: /images/School Crest.png
 colors:
   primary-color: "#161b58"
-  secondary-color: "#801516"
+  secondary-color: "#69120b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
