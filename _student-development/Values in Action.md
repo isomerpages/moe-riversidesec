@@ -1,10 +1,9 @@
 ---
 title: Values in Action
-permalink: /student-development/values-in-action
+permalink: /student-development/values-in-action/
 description: ""
 ---
-VALUES IN ACTION
-================
+
 
 Through Values in Action, Riversidians will better understand the community they are situated in and take concrete steps to make a positive impact to those around them. In doing so, students live out the value of service and grow to become active contributors of society.  
   
