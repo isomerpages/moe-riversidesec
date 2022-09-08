@@ -3,12 +3,10 @@ title: Crest, Motto and Song
 permalink: /about-us/crest-motto-and-song/
 description: ""
 ---
-# CREST, MOTTO AND SONG
+<h2 style="color:black" align="center">School Crest</h2>
 
-## School Crest
 
-<img src="/images/School%20Crest.png"  
-style="width:32%">
+<img src="/images/School%20Crest.png" style="width:140px;height:180px;margin-left:20px;" align = "left">
 
 The blue ‘C’ on the left denotes the school as a caring community in a challenging learning environment nurturing the total development of the Riversidian.
    
