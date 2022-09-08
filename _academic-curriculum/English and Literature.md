@@ -1,10 +1,9 @@
 ---
 title: English and Literature
-permalink: /academic-curriculum/english-language-and-literature
+permalink: /academic-curriculum/english-language-and-literature/
 description: ""
 ---
-ENGLISH LANGUAGE AND LITERATURE
-===============================
+
 
   
 The English Language and Literature Department aims to nurture discerning readers and convincing communicators who appreciate the literary arts.        
