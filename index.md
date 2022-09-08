@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/riverside.gif
       key_highlights:
-        - title: Highlights
-          description: Check out our highlights!
-          url: /highlights/2021-gce-o-level-briefing-slides-for-students
+        - title: Announcements
+          description: Click here for latest announcments!
+          url: /rss/highlights/2022-direct-school-admission
         - title: Useful Links
           description: Click here for useful links!
           url: /useful-links/dsa-2022-direct-school-admission
