@@ -1,10 +1,9 @@
 ---
 title: Computer Applications
-permalink: /academic-curriculum/computer-applications
+permalink: /academic-curriculum/computer-applications/
 description: ""
 ---
-COMPUTER APPLICATIONS
-=====================   
+   
 
 The Computer Applications unit aims to nurture confident and discerning IT savvy individuals who are lifelong learners.  
   
