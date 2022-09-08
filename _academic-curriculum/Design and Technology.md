@@ -1,10 +1,8 @@
 ---
 title: Design and Technology
-permalink: /academic-curriculum/design-and-technology
+permalink: /academic-curriculum/design-and-technology/
 description: ""
 ---
-DESIGN AND TECHNOLOGY
-=====================
 
 
 The Design and Technology unit aims to develop independent students who are able to appreciate aesthetics and culture, and translate their knowledge to be creative and innovative problem solvers.  
