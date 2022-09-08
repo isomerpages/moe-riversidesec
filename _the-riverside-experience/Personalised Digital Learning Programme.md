@@ -1,11 +1,9 @@
 ---
 title: Personalised Digital Learning Programme
-permalink: /the-riverside-experience/personalised-digital-learning-programme
+permalink: /the-riverside-experience/personalised-digital-learning-programme/
 description: ""
 ---
 
-PERSONALISED DIGITAL LEARNING PROGRAMME
-=======================================
 
 
 The Personalised Digital Learning Programme at Riverside aims to empower students to be self-directed learners who have the motivation and drive to pursue learning. We also want to nurture collaborative learners who connect with others to develop collective knowledge space. PDLP @Riverside works in tandem with Riverside iExperience, a collection of programmes that provides a holistic approach in developing students’ digital literacies and cultivating healthy habits in the use of technology. Riverside iExperience takes reference from and integrates the goals of the National Digital Literacy Programme (NDLP) and the CCE 2021 syllabus to guide Riversidians into becoming proficient and responsible digital learners.
