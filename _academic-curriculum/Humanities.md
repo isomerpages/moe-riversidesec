@@ -1,12 +1,9 @@
 ---
 title: Humanities
-permalink: /academic-curriculum/humanities
+permalink: /academic-curriculum/humanities/
 description: ""
 ---
-HUMANITIES
-==========
 
-  
 The Humanities department aims to develop our students to become citizens of the world, who understand and appreciate diversity and global events.        
 
 The approach to the teaching and learning of Humanities involves:  
