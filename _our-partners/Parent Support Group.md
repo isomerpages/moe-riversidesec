@@ -1,12 +1,9 @@
 ---
 title: Parent Support Group
-permalink: /our-partners/parent-support-group
+permalink: /our-partners/parent-support-group/
 description: ""
 ---
-PARENT SUPPORT GROUP
-====================
 
-  
 
 The Parent Support Group (PSG) contributes towards the holistic development of the students through deeper parental involvement in school programmes and activities. The PSG also provides a platform for communication and networking among parents.
 
