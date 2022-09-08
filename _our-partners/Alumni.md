@@ -1,12 +1,9 @@
 ---
 title: Alumni
-permalink: /our-partners/alumni
+permalink: /our-partners/alumni/
 description: ""
 ---
-ALUMNI
-======
 
-  
 
 The Riverside Alumni aims to engage and forge links with ex-Riversidians with a passion to serve and contribute towards school excellence.
 
