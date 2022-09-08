@@ -5,16 +5,51 @@ description: ""
 ---
 The Parent Support Group (PSG) contributes towards the holistic development of the students through deeper parental involvement in school programmes and activities. The PSG also provides a platform for communication and networking among parents.
 
-<img src="/images/Parent%20Support%20Group.png"  
-style="width:70%">
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/RSS%20PSG%20EXCO%20Formal%20Look.jpeg" alt="PSG Exco Formal" style="width:80%;">  
+  
+</body>
+  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Parenting%20Workshop%20on%20Cyber%20Wellness%20(12%20March%202022).jpg" alt="Parenting Workshop on Cyber Wellness" style="width:100%;">  
+  
+</body>
 
-![](/images/RSS%20PSG%20EXCO%20Formal%20Look.jpeg)
+  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Chinese%20New%20Year%20(CNY)%20Hampers%20(29%20January%202022).jpg" alt="Chinese New Year Hampers" style="width:100%;">  
+  
+</body>
 
-![](/images/Parenting%20Workshop%20on%20Cyber%20Wellness%20(12%20March%202022).jpg)
-
-![](/images/Chinese%20New%20Year%20(CNY)%20Hampers%20(29%20January%202022).jpg)
-
-![](/images/Welcome%20Tea%20Session%20for%20PSG%20Members%20of%20Secondary%20One%20and%20Two%20Students%20(21%20May%202022).jpg)
+  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Welcome%20Tea%20Session%20for%20PSG%20Members%20of%20Secondary%20One%20and%20Two%20Students%20(21%20May%202022).jpg" alt="Welcome Tea Session for PSG members of secondary one and two students" style="width:50%;">  
+  
+</body>
 
 
 <p style="text-align:center;"> <strong>2022 Riverside PSG Executive Committee</strong></p>
