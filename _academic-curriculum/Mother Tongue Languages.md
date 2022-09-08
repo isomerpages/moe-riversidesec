@@ -1,10 +1,8 @@
 ---
 title: Mother Tongue Languages
-permalink: /academic-curriculum/mother-tongue-languages
+permalink: /academic-curriculum/mother-tongue-languages/
 description: ""
 ---
-MOTHER TONGUE LANGUAGES
-=======================
 
   
 The Mother Tongue Languages department aims to instil in our students a sense of pride in their unique culture, strengthen values and develop a strong sense of belonging to Singapore through the study of their Mother Tongue.  
