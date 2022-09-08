@@ -3,24 +3,21 @@ title: The Riverside Experience
 permalink: /the-riverside-experience/
 description: ""
 ---
-
 Through the distinctive offerings and experiences at Riverside Secondary, we envision our graduates to be 
 
 ####           Ethical Leaders;  
 
------------------------------
+
 
 ####           Creative Persons;   
 
--------------------------------
 
-####           Compassionate and Active Citizens; and   
+####           Compassionate and Active Citizens; and  
 
-----------------------------------------------------
 
 ####           World-Ready Digital Learners.
 					
----------------------------------------
+
   
 
 Our Applied Learning Programme invites Riversidians to explore pertinent issues and empathise with the affected communities, before equipping them with the thinking and tools to be agents of change. Our Learning for Life Programme provides many opportunities for Riversidians to enjoy and experience a broad spectrum of arts to develop their creativity and versatility, while encouraging them to gain mastery in specific art forms. 
