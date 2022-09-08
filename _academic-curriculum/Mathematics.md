@@ -1,10 +1,8 @@
 ---
 title: Mathematics
-permalink: /academic-curriculum/mathematics
+permalink: /academic-curriculum/mathematics/
 description: ""
 ---
-MATHEMATICS
-===========
 
 The Mathematics department aims to deepen our students’ passion and to develop a positive attitude towards the subject. We provide them the experience of making learning relevant to “Live Maths, Love Maths”.          
 
