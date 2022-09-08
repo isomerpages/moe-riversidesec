@@ -1,10 +1,9 @@
 ---
 title: Learning for Life Programme
-permalink: /the-riverside-experience/learning-for-life-programme
+permalink: /the-riverside-experience/learning-for-life-programme/
 description: ""
 ---
-LEARNING FOR LIFE PROGRAMME
-===========================
+
 
   
 Riverside’s Learning for Life Programme (LLP), Arts for Life, is designed to bring out the artist in every Riversidian. Through multiple levels of programmes catered to a whole variety of arts interests, our students are able to appreciate as well as learn to express themselves through the arts.  
