@@ -1,10 +1,9 @@
 ---
 title: Character and Citizenship Education
-permalink: /student-development/character-and-citizenship-education
+permalink: /student-development/character-and-citizenship-education/
 description: ""
 ---
-CHARACTER AND CITIZENSHIP EDUCATION
-===================================
+
 
   
 Character and Citizenship Education at Riverside aims to develop students of good character who are guided by the school values, RS SPIRIT. Through the learning of social emotional skills, we seek to nurture resilient students. Students also grow to become active contributors to the community and nation, and develop the skills and attitudes to navigate future educational and career paths.     
