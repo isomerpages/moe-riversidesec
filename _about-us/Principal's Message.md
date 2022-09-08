@@ -1,12 +1,20 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
-# PRINCIPAL'S MESSAGE
 Dear all
 
-![Miss Tham, Principal of Riverside Secondary School](/images/Miss%20Tham.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Miss%20Tham.jpg" alt="Miss Tham, Principal of Riverside Secondary School" style="width:70%;">  
+  
+</body>
 
 As the new Principal of Riverside Secondary School, I feel privileged and honoured to be leading such a distinguished school with an illustrious history.
 
