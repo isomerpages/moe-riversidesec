@@ -17,32 +17,12 @@ The red circle represents the focal point of the school which is the all-round d
 
 As the Riversidian journeys through his years in the school, he will imbibe values and lifeskills that will impel him to leap forward and embrace the global challenges of tomorrow.
 
-## School Motto
+<h2 style="color:black" align="center">School Motto</h2>
 
-#### My Best and More
+<h4 style="color:black" align="center">My Best and More</h4>
 
-## School Song
+<h2 style="color:black" align="center">School Song</h2>
 
-#### My Best and More
+<h5 style="color:black" align="center">My Best and More</h5>
 
-*Lyrics by O. J. Balasingam, Music by Adeline Wong*
-
-In the north where the waters ride high  
-Stands a school where spirits never die  
-Committed to build a community  
-One heart, one mind, one destiny
-
-My best and more,  
-Believing in our hearts and will  
-My best and more,  
-Striving until time stands still
-
-Riverside, far as the eye can see  
-Making dreams turn into reality  
-Together in perfect harmony  
-One will, one road, one eternity
-
-My best and more,  
-Believing in our hearts and will  
-My best and more,  
-Striving until time stands still
+<p style="text-align:center;"><em>Lyrics by O. J. Balasingam, Music by Adeline Wong</em><br><br>In the north where the waters ride high<br>Stands a school where spirits never die<br>Committed to build a community<br>One heart, one mind, one destiny<br><br>My best and more,<br>Believing in our hearts and will <br>My best and more, <br>Striving until time stands still<br><br>Riverside, far as the eye can see<br>Making dreams turn into reality<br>Together in perfect harmony <br>One will, one road, one eternity<br><br>My best and more, <br>Believing in our hearts and will <br>My best and more,<br>Striving until time stands still</p>
