@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-riversidesec-staging.netlify.app
-prod: https://moe-riversidesec-prod.netlify.app
+staging: https://staging.d1ktxct2czq0jn.amplifyapp.com/
+prod: https://master.d1ktxct2czq0jn.amplifyapp.com/
 shareicon: /images/school logo.png
 is_government: false
 facebook-pixel: ""
