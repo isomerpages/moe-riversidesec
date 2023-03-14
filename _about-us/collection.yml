@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Highlights/.keep
       - Principal's Message.md
       - Vision, Mission and Values.md
       - Crest, Motto and Song.md
