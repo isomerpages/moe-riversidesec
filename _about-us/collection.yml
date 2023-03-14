@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Highlights/Full Home–based Learning.md
       - Highlights/.keep
       - Principal's Message.md
       - Vision, Mission and Values.md
