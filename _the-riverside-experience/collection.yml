@@ -2,14 +2,14 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - The Riverside Experience.md
+      - Personalised Digital Learning Programme.md
+      - Full Subject Based Banding.md
       - An Ethical Leader/.keep
       - An Ethical Leader/Student Leadership.md
       - An Ethical Leader/Co–curricular Activities.md
       - An Ethical Leader/Work Experience Programe.md
       - An Ethical Leader/Riverside Integrated Skills Experience.md
-      - The Riverside Experience.md
-      - Personalised Digital Learning Programme.md
-      - Full Subject Based Banding.md
       - A Creative Individual/.keep
       - A Creative Individual/Learning for Life Programme.md
       - A Creative Individual/Riverside Integrated Skills Experience.md
