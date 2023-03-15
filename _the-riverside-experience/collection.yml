@@ -2,6 +2,7 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - A Compassionate Active Citizen/.keep
       - The Riverside Experience.md
       - Personalised Digital Learning Programme.md
       - Full Subject Based Banding.md
