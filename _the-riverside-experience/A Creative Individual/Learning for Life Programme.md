@@ -4,19 +4,23 @@ permalink: /the-riverside-experience/learning-for-life-programme/
 description: ""
 third_nav_title: A Creative Individual
 ---
+## Aims:
 
 
+Our Learning for Life Programme (LLP), Arts for Life, is designed to bring out the artist in every Riversidian. Through a range of programmes catered to a wide variety of aesthetic interests, our students learn to appreciate the arts as well as express themselves through various art forms.
 
   
-Riverside’s Learning for Life Programme (LLP), Arts for Life, is designed to bring out the artist in every Riversidian. Through multiple levels of programmes catered to a whole variety of arts interests, our students are able to appreciate as well as learn to express themselves through the arts.  
-  
 
-Our Secondary 1 students experience a series of modules that immerse them in Multi-Ethnic Dance, Digital Photography as well as Digital Song Arrangement, while Secondary 2 students develop their communication skills and gain confidence, through the Speech and Drama module. Through an assortment of drama tools such as improvisation and role play, students explore a variety of speaking contexts.
+Lower secondary students are given opportunities to learn various art forms such as dance, digital song arrangement and dramatic poetry recitation.
 
-Outside the classroom, Riverside's Got Talent is an arts talent competition where students get the opportunity to showcase their talents in categories such as singing, photography and visual arts.
+## Highlights:
 
-![Art is what you make others see](/images/Art%20is%20what%20you%20make%20others%20see.jpg)
-Art is what you make others see
 
-![Friends making great music!](/images/Friends%20making%20great%20music.jpg)
-Friends making great music!
+Riverside's Got Talent (RSGT) and Creative Arts Awards Competitions
+
+Students with deeper interests in the performing and visual arts have the opportunity to participate in the annual RSGT and Creative Arts Awards competitions to showcase their artistic abilities. RSGT participants are given the opportunity to further hone their skills through masterclass workshops. They gain insights into original dance choreography and learn to develop their vocal abilities from a professional vocal coach.
+
+![](/images/llp1.png)
+
+
+![](/images/llp2.png)
