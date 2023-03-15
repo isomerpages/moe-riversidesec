@@ -2,6 +2,7 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - A Creative Individual/Riverside Integrated Skills Experience.md
       - A Creative Individual/Learning for Life Programme.md
       - A Creative Individual/.keep
       - The Riverside Experience.md
