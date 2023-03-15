@@ -2,6 +2,7 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - An Ethical Leader/Student Leadership.md
       - An Ethical Leader/.keep
       - The Riverside Experience.md
       - Personalised Digital Learning Programme.md
