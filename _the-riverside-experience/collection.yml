@@ -2,11 +2,11 @@ collections:
   the-riverside-experience:
     output: true
     order:
-      - A Future Ready Digital Learner/A Future Ready Digital Learner.md
-      - A Future Ready Digital Learner/Personalised Digital Learning Programme.md
-      - A Future Ready Digital Learner/.keep
       - The Riverside Experience.md
       - Full Subject Based Banding.md
+      - A Future Ready Digital Learner/.keep
+      - A Future Ready Digital Learner/A Future Ready Digital Learner.md
+      - A Future Ready Digital Learner/Personalised Digital Learning Programme.md
       - An Ethical Leader/.keep
       - An Ethical Leader/Student Leadership.md
       - An Ethical Leader/Co–curricular Activities.md
