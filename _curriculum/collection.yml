@@ -1,5 +1,5 @@
 collections:
-  academic-curriculum:
+  curriculum:
     output: true
     order:
       - Aesthetics.md
