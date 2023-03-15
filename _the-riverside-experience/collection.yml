@@ -2,9 +2,9 @@ collections:
   the-riverside-experience:
     output: true
     order:
-      - A Creative Individual/Riverside Integrated Skills Experience.md
-      - A Creative Individual/Learning for Life Programme.md
       - A Creative Individual/.keep
+      - A Creative Individual/Learning for Life Programme.md
+      - A Creative Individual/Riverside Integrated Skills Experience.md
       - The Riverside Experience.md
       - Personalised Digital Learning Programme.md
       - Full Subject Based Banding.md
