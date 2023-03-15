@@ -2,6 +2,7 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - A Future Ready Digital Learner/A Future Ready Digital Learner.md
       - A Future Ready Digital Learner/Personalised Digital Learning Programme.md
       - A Future Ready Digital Learner/.keep
       - The Riverside Experience.md
