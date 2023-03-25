@@ -47,8 +47,8 @@ description: ""
     <td class="tg-baqh">One thing I like about RISE is that it helped me to understand myself better and to get out of my comfort zone- to play my part in the community. I also made new friends from my new form class and I was also able to improve my leadership skills. The RISE experience made me realise that I am capable of more things and how to be a better leader. - Naimi Irdina</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img style="width: 65%;" src="/images/Elm.jpg" /></th></td>
-    <td class="tg-baqh"><img style="width: 65%;" src="/images/Elm.jpg" /></th></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/A-seemingly-simple-task-requires-great-precision.jpg" /></th></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/Photo%201%20.jpeg" /></th></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
