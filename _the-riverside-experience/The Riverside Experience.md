@@ -37,7 +37,7 @@ description: ""
     <td class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203%20-%20Sec%203%20AOH.jpg" /></th></td>
   </tr>
   <tr>
-    <td class="tg-amwm">Applied Learning Programme</td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/applied-learning-programme/">Applied Learning Programme</a></td>
     <td class="tg-amwm">Learning for Life Programme</td>
     <td class="tg-amwm">Riverside Integrated Skills Experience</td>
   </tr>
@@ -52,7 +52,7 @@ description: ""
     <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-amwm">Work Experience Programme</td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/work-experience-programme/">Work Experience Programme</a></td>
     <td class="tg-amwm">Internationalism </td>
     <td class="tg-amwm"></td>
   </tr>
