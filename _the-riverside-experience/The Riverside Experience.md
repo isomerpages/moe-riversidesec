@@ -15,9 +15,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-baqh"></th>
-    <th class="tg-baqh"></th>
-    <th class="tg-baqh"></th>
+    <th class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203.jpg" /></th>
+    <th class="tg-baqh"><img style="width: 65%;" src="/images/sothumbnail5.jpg" /></th></th>
+    <th class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203%20(1).jpg" /></th></th>
   </tr>
 </thead>
 <tbody>
@@ -32,9 +32,9 @@ description: ""
     <td class="tg-baqh">I vividly remember being a bright-eyed junior student councillor, watching in awe as the then Student Council EXCO took their pledge as student leaders. Then, I did not understand the true meaning of student leadership. Now, I discovered that leadership is more than just being a role model for fellow schoolmates. It is also about guiding my peers to reach their fullest potential and doing what is right. I could have never been more honoured and humbled to hold the role as student council president. My journey as a student leader is definitely not a perfect one but I hope that I have inspired my peers to achieve their best and more. - Nurienne</td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/photo%204.jpg" /></th></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/6%20-%20thumbnail.png" /></th></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203%20-%20Sec%203%20AOH.jpg" /></th></td>
   </tr>
   <tr>
     <td class="tg-amwm">Applied Learning Programme</td>
@@ -47,8 +47,8 @@ description: ""
     <td class="tg-baqh">One thing I like about RISE is that it helped me to understand myself better and to get out of my comfort zone- to play my part in the community. I also made new friends from my new form class and I was also able to improve my leadership skills. The RISE experience made me realise that I am capable of more things and how to be a better leader. - Naimi Irdina</td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/Elm.jpg" /></th></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/Elm.jpg" /></th></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
