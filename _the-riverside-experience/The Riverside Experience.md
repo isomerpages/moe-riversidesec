@@ -16,15 +16,15 @@ description: ""
 <thead>
   <tr>
     <th class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203.jpg" /></th>
-    <th class="tg-baqh"><img style="width: 65%;" src="/images/sothumbnail5.jpg" /></th></th>
-    <th class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203%20(1).jpg" /></th></th>
+    <th class="tg-baqh"><img style="width: 65%;" src="/images/sothumbnail5.jpg" /></th>
+    <th class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203%20(1).jpg" /></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-amwm">Personalised Digital Learning Programme</td>
-    <td class="tg-amwm">Full Subject-Based Branding</td>
-    <td class="tg-amwm"> Student Leadership</td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/personalised-digital-learning-programme/"><b>Personalised Digital Learning Programme</b></a></td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/full-subject-based-banding/"><b>Full Subject-Based Branding</b></a></td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/student-development/student-leadership/"><b>Student Leadership</b></a></td>
   </tr>
   <tr>
     <td class="tg-baqh">It is exciting to have my own iPad for the first time. Though I initially struggled with learning its different functions, the SLS lessons taught me about the various functions of the iPad and I learned to use my iPad effectively. I am now able to use my iPad to plan my time and complete my work before the end of the day. I also managed to create a movie for the Student-initiated Learning (SIL) on my iPad. I hope I will be able to learn more functions on the iPad to enhance my learning! - Mabel</td>
@@ -32,14 +32,14 @@ description: ""
     <td class="tg-baqh">I vividly remember being a bright-eyed junior student councillor, watching in awe as the then Student Council EXCO took their pledge as student leaders. Then, I did not understand the true meaning of student leadership. Now, I discovered that leadership is more than just being a role model for fellow schoolmates. It is also about guiding my peers to reach their fullest potential and doing what is right. I could have never been more honoured and humbled to hold the role as student council president. My journey as a student leader is definitely not a perfect one but I hope that I have inspired my peers to achieve their best and more. - Nurienne</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img style="width: 65%;" src="/images/photo%204.jpg" /></th></td>
-    <td class="tg-baqh"><img style="width: 65%;" src="/images/6%20-%20thumbnail.png" /></th></td>
-    <td class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203%20-%20Sec%203%20AOH.jpg" /></th></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/photo%204.jpg" /></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/6%20-%20thumbnail.png" /></td>
+    <td class="tg-baqh"><img style="width: 65%;" src="/images/Photo%203%20-%20Sec%203%20AOH.jpg" /></td>
   </tr>
   <tr>
-    <td class="tg-amwm"><a href="/the-riverside-experience/applied-learning-programme/">Applied Learning Programme</a></td>
-    <td class="tg-amwm">Learning for Life Programme</td>
-    <td class="tg-amwm">Riverside Integrated Skills Experience</td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/applied-learning-programme/"><b>Applied Learning Programme</b></a></td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/learning-for-life-programme/"><b>Learning for Life Programme</b></a></td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/riverside-integrated-skills-experience/"><b>Riverside Integrated Skills Experience</b></a></td>
   </tr>
   <tr>
     <td class="tg-baqh">What I like about ALP is that I can learn what is happening in the world and our society. Through the programme, I get to research and discover what is being done globally and locally for issues such as climate change. I hope to learn more about the partnership between countries to tackle these issues together. I also find learning the 17 UN goals useful as it helps me to think deeply about how I can contribute to improve the world I live in. - Saw Jia Hui</td>
@@ -52,8 +52,8 @@ description: ""
     <td class="tg-baqh"></td>
   </tr>
   <tr>
-    <td class="tg-amwm"><a href="/the-riverside-experience/work-experience-programme/">Work Experience Programme</a></td>
-    <td class="tg-amwm">Internationalism </td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/work-experience-programme/"><b>Work Experience Programme</b></a></td>
+    <td class="tg-amwm"><a href="/the-riverside-experience/internationalisation/"><b>Internationalism</b></a></td>
     <td class="tg-amwm"></td>
   </tr>
   <tr>
