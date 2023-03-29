@@ -2,6 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Environmental Science Club.md
-      - Clubs & Societies/AV Crew.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/AV Crew.md
+      - Clubs & Societies/Environmental Science Club.md
