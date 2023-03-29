@@ -114,3 +114,16 @@ Our PSG joined in the Riverside Experience and had the opportunity to host and s
 <br clear="left"><br>
 
 ###### <center>2023 Riverside PSG Executive Committee</center>
+
+| **Name**  | **Designation**  |
+|:-:|---|
+| Mdm Cecile Lim  | Chairperson  |
+| Mdm Phua Heng Jone  | Vice-Chairperson  |
+| Mdm Kelly Ng Chuu Ein  |  Vice-Chairperson |
+|  Mdm Lenny Surianie | EXCO Member  |
+| Mdm Praveena Manickavasagan  | EXCO Member  |
+| Mdm Chu May Ling  | EXCO Member  |
+| Mdm Yoon Myint Moh  | EXCO Member  |
+| Mdm Linda Lim  | EXCO Member  |
+| Mr Natarajan Kannan  | EXCO Member  |
+|   |   |
