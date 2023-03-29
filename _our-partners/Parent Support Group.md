@@ -9,12 +9,10 @@ The Parent Support Group (PSG) contributes towards the holistic development of t
 
 **Parenting Workshops**  
 
-**Parenting Workshop on Helping Teenagers to Transit Well into Adulthood (15 January 2022)**
-
+**Parenting Workshop on Helping Teenagers to Transit Well into Adulthood (15 January 2022)**<br>
 The first parenting workshop for the year was conducted by Mr Galvin Sng from TOUCH Parenting via Zoom. Parents went away equipped with appropriate strategies to encourage healthy self-esteem and self-worth in their growing teens. They were also inspired to adopt good communication habits with their teenage children.  
 
-**Parenting Workshop on Cyber Wellness (12 March 2022)**
-
+**Parenting Workshop on Cyber Wellness (12 March 2022)**<br>
 A second parenting workshop was conducted by TOUCH Parenting. Through the workshop, parents learnt relevant strategies to help them better understand their digitally savvy children and how to engage their children in a positive and effective manner.
   
 <style>  
@@ -28,8 +26,7 @@ img {
   
 </body>
 
- **Chinese New Year** **(CNY) Hampers (29 January 2022)**
-
+ **Chinese New Year** **(CNY) Hampers (29 January 2022)**<br>
 Every year, the Riverside family comes together to contribute CNY hampers to needy families in Woodlands. This year PSG EXCO members played their part by contributing 10 hampers accompanied by beautifully handwritten messages to bring cheer to these families.
  
 <style>  
