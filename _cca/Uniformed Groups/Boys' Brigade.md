@@ -23,3 +23,17 @@ Our boys have the opportunity to hone their leadership and self-management skill
 
 <u>Learning New skills</u><br>
 Besides acquiring soft skills, our boys also learned a variety of hard skills, such as playing bagpipes and drums, kayaking, rock wall climbing, campcraft and first aid. These activities not only equipped them with skills, but also taught them the importance of perseverance and teamwork.
+
+<img src="/images/bb1.jpg" style="width:49%" align=left>
+<img src="/images/bb2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/bb3.jpg" style="width:49%" align=left>
+<img src="/images/bb4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/bb5.jpg" style="width:80%">
+<figcaption>  Boys in action during the lesson on navigation
+ </figcaption>
+</figure>
