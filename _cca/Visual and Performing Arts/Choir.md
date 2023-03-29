@@ -25,3 +25,15 @@ Our choristers took part in The Voices of Singapore Festival, Singapore's larges
 
 <u>Music Video Production</u><br>
 Our choristers embarked on a music video production. They were divided into three groups and each group had to develop a concept and storyboard based on the song given. They were strongly encouraged to look up other successful videos as sources of inspiration to make a successful video of their own. This gave them the opportunity to think creatively whilst honing their craft.
+
+<img src="/images/ch1.jpg" style="width:49%" align=left>
+<img src="/images/ch2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ch3.jpg" style="width:49%" align=left>
+<img src="/images/ch4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ch5.jpg" style="width:49%" align=left>
+<img src="/images/ch6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
