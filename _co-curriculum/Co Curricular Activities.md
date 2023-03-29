@@ -5,20 +5,20 @@ description: ""
 ---
 #### Clubs & Societies
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/clubs-and-societies/av-crew/">
 <img style="width:30%" align=left src="/images/cs1.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/clubs-and-societies/media-club/">
 <img style="width:30%" align=left src="/images/cs2.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/clubs-and-societies/robo-club/">
 <img style="width:30%" align=left src="/images/cs3.jpg">
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/clubs-and-societies/enviro-sci-club/">
 <img style="width:30%" align=left src="/images/cs4.jpg">
 </a></p>
 <br clear=left>
