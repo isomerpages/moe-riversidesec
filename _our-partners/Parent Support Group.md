@@ -77,4 +77,26 @@ For Teachers’ Day, the PSG came together on a Saturday morning to bake cooki
 <img src="/images/tch2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
+**Mid-Autumn Festival (15 September 2022)**<br>
+PSG celebrated the Mid-Autumn Festival with our Riversidian family! Our parents made mooncakes and shared with our students during their respective recesses. Besides enjoying a piece of that delicious mooncake, they got to watch a live demonstration on mooncake making by the parents.
+
+<img src="/images/mid1.jpg" style="width:49%" align=left>
+<img src="/images/mid2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/mid3.jpg" style="width:49%" align=left>
+<img src="/images/mid4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+**Graduation Night (16 November 2022)**<br>
+As our graduating Riversidians gathered for one last night of fun and laughter, the PSG wanted to create a memorable experience for them. Our parents created their own DIY photo booth, complete with DIY props! There was even a candy station, and the students loved it.
+
+<img src="/images/grad1.jpeg" style="width:49%" align=left>
+<img src="/images/grad2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/grad3.jpeg" style="width:49%" align=left>
+<img src="/images/grad4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
 
