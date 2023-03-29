@@ -23,3 +23,17 @@ Students are taught how to use digital tools such as Sketchbook on their Persona
 <u>Upper Secondary</u><br>
 Solving Real-World Problems<br>
 Students are taught the design process as a way of thinking and doing. This allows them to focus on creating solutions which are purposeful and meet user needs. They are also introduced to commercial heavy-duty machineries such as the lathe and milling machines. They put together their knowledge to create working prototypes.
+
+<img src="/images/dnt1.jpg" style="width:49%" align=left>
+<img src="/images/dnt2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/dnt3.jpg" style="width:49%" align=left>
+<img src="/images/dnt4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/dnt5.jpg" style="width:60%">
+<figcaption>  Upper Secondary Projects
+ </figcaption>
+</figure>
