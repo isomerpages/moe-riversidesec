@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/AV Crew.md
       - Clubs & Societies/.keep
