@@ -15,3 +15,11 @@ Indian Dance aims to:  <br>
 
 <u>35th Speech and Prize-Giving Day Performance</u><br>
 Our dancers put up a performance titled Charishnu, which means the desire to move. This dance performance showcased the traditional Indian classical dance, Bharathanatyam. In this performance, our dancers came together to display their finesse in the classical form of the dance, and their performance was well received by the audience.
+
+<img src="/images/ind1.jpg" style="width:49%" align=left>
+<img src="/images/ind2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ind3.jpg" style="width:49%" align=left>
+<img src="/images/ind4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
