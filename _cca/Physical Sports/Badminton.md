@@ -18,3 +18,16 @@ Our students took part in the North Zone competition and gave their best in each
 <u>Friendly Match with Junyuan Secondary School</u><br>
 Our students took part in a friendly match with students from Junyuan Secondary School during the school holidays. They enjoyed the experience very much and made new friends during the matches.
 
+<img src="/images/bad1.jpg" style="width:49%" align=left>
+<img src="/images/bad2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/bad3.jpg" style="width:49%" align=left>
+<img src="/images/bad4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/bad5.jpg" style="width:70%">
+<figcaption>  Friendly exchange with Jun Yuan Secondary School
+ </figcaption>
+</figure>
