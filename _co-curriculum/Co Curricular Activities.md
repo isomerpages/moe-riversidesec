@@ -49,24 +49,24 @@ description: ""
 
 #### Uniformed Groups
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/uniformed-groups/bb/">
 <img style="width:30%" align=left src="/images/ug1.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/uniformed-groups/gb/">
 <img style="width:30%" align=left src="/images/ug2.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/uniformed-groups/ncc-sea/">
 <img style="width:30%" align=left src="/images/ug3.jpg">
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/uniformed-groups/ncdcc/">
 <img style="width:30%" align=left src="/images/ug4.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/uniformed-groups/npcc/">
 <img style="width:30%" align=left src="/images/ug5.jpg">
 </a></p>
 <br clear=left>
