@@ -20,3 +20,13 @@ Our members conducted two art jamming sessions with Riverside students this year
 Seven of our Secondary 3 members received the Certificate of Recognition at the SYF Art Exhibition 2022. Their drypoint art piece titled ‘Irreplaceable Artist, Sustainable Future’ was displayed at the National Museum of Singapore in conjunction with the event.
 
 Benedict Chew (4/7) also did us proud when he was awarded with the Special Mention Award at the ‘Live on Festival 2022 Design Competition’ organised by the National Organ Transplant Unit.
+
+<img src="/images/arts1.jpg" style="width:49%" align=left>
+<img src="/images/arts2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/arts3.jpeg" style="width:70%">
+<figcaption> 'The Organ Express' Digital Illustration by Chew Chen Jun Benedict, 4/7
+ </figcaption>
+</figure>
