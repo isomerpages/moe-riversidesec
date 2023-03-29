@@ -30,6 +30,6 @@ Selected students participate in various competitions such as Elementz Science P
 
 <figure>
 <img src="/images/sci5.jpg" style="width:60%">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  Science Practical
  </figcaption>
 </figure>
