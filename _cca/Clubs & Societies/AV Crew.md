@@ -28,11 +28,11 @@ One of our highlights for our AV crew members this year was providing support fo
 With the increase in demand for AV crew’s support for school activities and events, our members will get more hands-on training opportunities to hone their skills and foster teamwork among themselves.
 
 <img src="/images/av1.jpg" style="width:49%" align=left>
-<img src="/images/av2.g" style="width:49%" align=right>
+<img src="/images/av2.pg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/av3jpg" style="width:49%" align=left>
-<img src="/images/av4jpg" style="width:49%" align=right>
+<img src="/images/av3.pg" style="width:49%" align=left>
+<img src="/images/av4.pg" style="width:49%" align=right>
 <br clear="left"><br>
 
 <figure>
