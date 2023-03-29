@@ -23,3 +23,13 @@ This week-long programme provides a platform for students to develop and showcas
 
 <u>National Schools Literature Festival (NSLF)</u><br>
 Selected students participate in the yearly NSLF to provide students with the platform to engage with the literature texts they are studying in multimodal ways.
+
+<img src="/images/ell1.jpg" style="width:49%" align=left>
+<img src="/images/ell2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/ell3.jpg" style="width:90%">
+<figcaption>  ELLE Day - Gothic book characters parade by ELL teachers
+ </figcaption>
+</figure>
