@@ -29,7 +29,7 @@ Selected students participate in the yearly NSLF to provide students with the pl
 <br clear="left"><br>
 
 <figure>
-<img src="/images/ell3.jpg" style="width:90%">
+<img src="/images/ell3.jpg" style="width:50%">
 <figcaption>  ELLE Day - Gothic book characters parade by ELL teachers
  </figcaption>
 </figure>
