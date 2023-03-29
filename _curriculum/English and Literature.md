@@ -3,23 +3,23 @@ title: English and Literature
 permalink: /academic-curriculum/english-language-and-literature/
 description: ""
 ---
+#### Aims and Approach:
 
+The English Language and Literature department aims to nurture discerning readers and effective communicators who appreciate the literary arts.
 
-  
-The English Language and Literature Department aims to nurture discerning readers and convincing communicators who appreciate the literary arts.        
+The approach to the teaching and learning of English Language and Literature involves:
 
-The approach to the teaching and learning of English Language and Literature involves:  
-1.       Contextualising a wide variety of rich texts in an integrated, process-oriented and spiral-progressive 
- curriculum;
-2.       Adopting active learning processes that allow for learning-focused interaction in the classroom; and  
-3.       Communicating assessment criteria and providing meaningful feedback to improve students' learning  experiences   
+*   contextualising a wide variety of multimodal texts in an integrated, process-oriented and spiral-progressive curriculum;
+*   promoting active learning processes that facilitate learning-focused interactions, metacognition and meaning-making in the classroom; and
+*   providing meaningful and effective feedback to enhance students' learning experiences.
 
-  
+#### Key Programmes:
 
-#### Key Programmes   
+<u>English Language Reading Programme</u><br>
+The programme aims to expose students to a wide genre of texts and cultivate healthy reading habits in students. The fortnightly reading programme encourages students to discover thematic texts that are accessible to them. Activities include book reviews and drama performances by our student reading ambassadors and teachers.  
 
-**English Language and Literature Experience (ELLE)**  
-This week-long programme provides students opportunites to experience language outside of the classroom context, as they participate in a series of fun language and literature-focused activities.  
-<br>
-**National Schools Literature Festival (NSLF)**  
-We participate in the yearly NSLF to provide students with the platform to engage with the literature texts they are studying in multimodal ways.
+<u>English Language and Literature Experience (ELLE)</u><br>
+This week-long programme provides a platform for students to develop and showcase their appreciation for the language and literature through participating in a series of fun and engaging activities.
+
+<u>National Schools Literature Festival (NSLF)</u><br>
+Selected students participate in the yearly NSLF to provide students with the platform to engage with the literature texts they are studying in multimodal ways.
