@@ -5,8 +5,6 @@ description: ""
 ---
 The Parent Support Group (PSG) contributes towards the holistic development of the students through deeper parental involvement in school programmes and activities. The PSG also provides a platform for communication and networking among parents.
 
-PSG GROUP PHOTO PNG
-
 <img src="/images/PSG GROUP PHOTO PNG.png" style="width:85%">
 
 **Parenting Workshops**  
