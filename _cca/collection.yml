@@ -2,14 +2,14 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/.keep
+      - Clubs & Societies/AV Crew.md
+      - Clubs & Societies/Environmental Science Club.md
+      - Clubs & Societies/Media Club.md
+      - Clubs & Societies/Robotics Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/NCC (Sea).md
       - Uniformed Groups/NCDCC.md
       - Uniformed Groups/NPCC.md
-      - Clubs & Societies/.keep
-      - Clubs & Societies/AV Crew.md
-      - Clubs & Societies/Environmental Science Club.md
-      - Clubs & Societies/Media Club.md
-      - Clubs & Societies/Robotics Club.md
