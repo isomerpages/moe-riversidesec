@@ -18,3 +18,17 @@ The girls were elated with the resumption of NSG, after two years of not being a
 
 <u>Combined Sports Camp 2022</u><br>
 After being on a hiatus for two years, the Combined Sports Camp was organised again. The camp was aimed at forging camaraderie with other CCA athletes through common challenging experiences and increasing the knowledge of sports psychology to improve their athletic performance and mental wellness. The two-day camp was packed with programmes such as a talk by Mr Steven Tay, former Deputy Director of Physical Sports MOE on Character in Sporting Excellence, a track event at YIJC, an intersports game and a sharing session by various SEA Games athletes. From this camp, students gained friendship, knowledge and insights into how to be better athletes.
+
+<img src="/images/net1.jpg" style="width:49%" align=left>
+<img src="/images/net2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/net3.jpg" style="width:49%" align=left>
+<img src="/images/net4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/net5.jpg" style="width:70%">
+<figcaption>  Team Riverside
+ </figcaption>
+</figure>
