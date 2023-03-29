@@ -103,5 +103,12 @@ As our graduating Riversidians gathered for one last night of fun and laughter, 
 The school and PSG organised a fun-filled activity aimed at bonding parents with their children. This year, they&nbsp;had an exciting time experiencing the art and science of prata making.&nbsp;They had the opportunity to flip pratas.
 
 <img align="left" style="width:49%" src="/images/pj1.jpeg">
-<img align="right" src="/images/pj2.jp style=">
+<img align="right" style="width:49%" src="/images/pj2.jpg">
+<br clear="left"><br>
+
+**Open House (19 November 2022)**<br>
+Our PSG joined in the Riverside Experience and had the opportunity to host and share with our prospective primary six parents.
+
+<img src="/images/open1.jpeg" style="width:49%" align=left>
+<img src="/images/open2.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
