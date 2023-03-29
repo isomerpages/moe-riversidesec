@@ -63,6 +63,14 @@ img {
   
 </body>
 
+**Racial Harmony Day (20 July 2022)**<br>
+A special shoutout to our parents in the Riverside Parent Support Group for their help in organizing various game booths such as gunny sack race, hopscotch, tapak gajah for students to learn and appreciate traditional games.
+
+<img src="/images/racial1.jpg" style="width:49%" align=left>
+<img src="/images/racial2.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+
 
 <p style="text-align:center;"><strong>2022 Riverside PSG Executive Committee</strong></p>
 
