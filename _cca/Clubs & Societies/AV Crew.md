@@ -26,3 +26,17 @@ After safe management measures were eased, AV Crew provided the logistical assis
 One of our highlights for our AV crew members this year was providing support for our Riverside Dance as the finale for our 35th Speech and Prize-Giving Day. The whole school came together for RS Dance at parade square, after a two-and-half year hiatus.
 
 With the increase in demand for AV crew’s support for school activities and events, our members will get more hands-on training opportunities to hone their skills and foster teamwork among themselves.
+
+<img src="/images/av1.jpg" style="width:49%" align=left>
+<img src="/images/av2.g" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/av3jpg" style="width:49%" align=left>
+<img src="/images/av4jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/av5jpg" style="width:90%">
+<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+ </figcaption>
+</figure>
