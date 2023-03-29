@@ -21,3 +21,17 @@ RSMUN is a signature experience in our Applied Learning Programme. Students hone
 
 <u>Competitions</u><br>
 Selected students participate in the History Challenge, NUS Geography Challenge and NLB Historical Scene Investigation Challenge.
+
+<img src="/images/hum1.jpg" style="width:49%" align=left>
+<img src="/images/hum2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hum3.jpg" style="width:49%" align=left>
+<img src="/images/hum4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/hum5.jpg" style="width:80%">
+<figcaption>  Getting votes for our resolution during RSS Model United Nations
+ </figcaption>
+</figure>
