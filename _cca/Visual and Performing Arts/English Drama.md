@@ -24,3 +24,15 @@ Our members embarked on the exploration of the diverse theatrical mediums this y
 
 <u>Drama Camp</u><br>
 Our members organised their annual Drama Camp this year. The camp provided a platform for them to know one another better, build stronger teamwork and allowed the seniors to showcase their skills and leadership through the planning and execution of training activities.
+
+<img src="/images/ed1.jpg" style="width:49%" align=left>
+<img src="/images/ed2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ed3.jpg" style="width:49%" align=left>
+<img src="/images/ed4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ed5.jpg" style="width:49%" align=left>
+<img src="/images/ed6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
