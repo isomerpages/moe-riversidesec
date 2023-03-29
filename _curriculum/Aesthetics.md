@@ -3,21 +3,34 @@ title: Aesthetics
 permalink: /academic-curriculum/aesthetics/
 description: ""
 ---
+#### Aesthetics Unit
 
-The Aesthetics department aims to ensure students have the joy in learning art and music so that they can appreciate the arts in their lives and contribute to society through various art forms. We also endeavour to promote the spirit of experiential learning and a thinking and creative culture.  
-  
+##### Aims and Approach:
 
-The student-centric approach to the teaching and learning of art and music is informed by:  
-1.      Inquiry based learning  
-2.      Collaborative learning  
-3.      Experiential Learning
+The Aesthetics department aims to ensure students have the joy in learning art and music so that they can appreciate the arts in their lives and contribute to society through various art forms. We also endeavour to promote the spirit of experiential learning and a thinking and creative culture.
 
-####  Key Programmes
-   
-**Skills-based learning**  
-Students learn various art forms such as drawing and painting, copper tooling, photography, printmaking and many more. Students learn the keyboard, guitar, classroom percussion as well as digital music over the two years of music education and have opportunities to put up performances in school.  
+The student-centric approach to the teaching and learning of art and music is informed by:<br>
+1 \.  inquiry-based learning<br>
+2 \.  collaborative learning<br>
+3 \.  experiential learning
 
-<br>
+##### Key Programmes
 
-**Competitions**  
-Selected students participate in external competitions to apply their knowledge and skills.
+<u>External Engagements</u><br>
+Selected students participate in external competitions, performances and exhibitions such as the SYF Youth Station Songwriting Experience, N5 Cluster Art Exhibition, workshops as well as a music performance at Woodlands Regional Library. These opportunities allow them to apply their knowledge and skills.
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
