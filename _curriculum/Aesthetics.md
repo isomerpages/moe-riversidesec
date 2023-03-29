@@ -19,18 +19,27 @@ The student-centric approach to the teaching and learning of art and music is in
 <u>External Engagements</u><br>
 Selected students participate in external competitions, performances and exhibitions such as the SYF Youth Station Songwriting Experience, N5 Cluster Art Exhibition, workshops as well as a music performance at Woodlands Regional Library. These opportunities allow them to apply their knowledge and skills.
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/aes1.jpg" style="width:49%" align=left>
+<img src="/images/aes2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/aes3.jpg" style="width:49%" align=left>
+<img src="/images/aes4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/aes5.jpg" style="width:49%" align=left>
+<img src="/images/aes6.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/aes7.jpg" style="width:49%" align=left>
+<img src="/images/aes8.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+#### Nutrition and Food Science Unit
+
+##### Aims and Approach:
+
+The Nutrition and Food Science (NFS) Unit aims to nurture concerned citizens who take an active role in bettering the lives of themselves as well as those around them through nutrition, food literacy and food science.
+
+The approach to the teaching and learning of Nutrition and Food Science involves inquiry-based learning. Students are tasked with real-world problems to investigate. They work in teams to plan, craft and create scientifically-informed diets for healthier lives.
+
