@@ -24,3 +24,17 @@ Our cadets also fulfilled their duties as police youth ambassadors by playing a 
 
 <u>Achievement</u><br>
 Our unit received the Unit Overall Proficiency Award (Gold) for the year 2021.
+
+<img src="/images/npcc1.jpg" style="width:49%" align=left>
+<img src="/images/npcc2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/npcc3.jpg" style="width:49%" align=left>
+<img src="/images/npcc4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/npcc5.jpg" style="width:70%">
+<figcaption>  NPCC contingent during Combined Uniformed Group Activity 2022
+ </figcaption>
+</figure>
