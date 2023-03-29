@@ -74,36 +74,36 @@ description: ""
 #### Visual and Performing Arts
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug1.jpg">
+<img style="width:30%" align=left src="/images/visual1.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug2.jpg">
+<img style="width:30%" align=left src="/images/visual2.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug3.jpg">
-</a></p>
-<br clear=left>
-
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug1.jpg">
-</a></p>
-
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug2.jpg">
-</a></p>
-
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug3.jpg">
+<img style="width:30%" align=left src="/images/visual3.jpg">
 </a></p>
 <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug4.jpg">
+<img style="width:30%" align=left src="/images/visual4.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/ug5.jpg">
+<img style="width:30%" align=left src="/images/visual5.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/visual6.jpg">
+</a></p>
+<br clear=left>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/visual7.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/visual8.jpg">
 </a></p>
 <br clear=left>
