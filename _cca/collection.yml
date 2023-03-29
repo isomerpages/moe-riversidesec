@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Physical Sports/Netball.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
       - Physical Sports/Football.md
+      - Physical Sports/Netball.md
       - Clubs & Societies/.keep
       - Clubs & Societies/AV Crew.md
       - Clubs & Societies/Environmental Science Club.md
