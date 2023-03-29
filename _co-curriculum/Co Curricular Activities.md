@@ -73,37 +73,37 @@ description: ""
 
 #### Visual and Performing Arts
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/visual-arts/">
 <img style="width:30%" align=left src="/images/visual1.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/choir/">
 <img style="width:30%" align=left src="/images/visual2.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/cb/">
 <img style="width:30%" align=left src="/images/visual3.jpg">
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/cd/">
 <img style="width:30%" align=left src="/images/visual4.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/indian-dance/">
 <img style="width:30%" align=left src="/images/visual5.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/malay-dance/">
 <img style="width:30%" align=left src="/images/visual6.jpg">
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/modern-dance/">
 <img style="width:30%" align=left src="/images/visual7.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/visual-and-performing-arts/eng-drama/">
 <img style="width:30%" align=left src="/images/visual8.jpg">
 </a></p>
 <br clear=left>
