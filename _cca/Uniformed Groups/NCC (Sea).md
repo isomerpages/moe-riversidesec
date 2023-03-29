@@ -17,3 +17,17 @@ Our cadets participated in various outdoor physical activities this year. These 
 
 <u>Army Open House 2022</u><br>
 Our cadets also attended the Army Open House 2022 to better understand the mission and capabilities of the Singapore Army and participated in a sea tour by the Maritime Port Authority of Singapore to aid their learning of seamanship. Our commitment to our cadets’ learning through innovative practices was recognised this year when we received Distinction for the 2022 NCC HQ Unit Recognition assessment.
+
+<img src="/images/sea1.jpg" style="width:49%" align=left>
+<img src="/images/sea2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/sea3.jpg" style="width:49%" align=left>
+<img src="/images/sea4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/sea5.jpg" style="width:70%">
+<figcaption>  Cadets at attention in the school hall during the NCC Day Parade
+ </figcaption>
+</figure>
