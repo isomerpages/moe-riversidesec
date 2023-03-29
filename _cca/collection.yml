@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Visual and Performing Arts/Visual Arts.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Chinese Dance.md
       - Visual and Performing Arts/Choir.md
@@ -11,6 +10,7 @@ collections:
       - Visual and Performing Arts/Indian Dance.md
       - Visual and Performing Arts/Malay Dance.md
       - Visual and Performing Arts/Modern Dance.md
+      - Visual and Performing Arts/Visual Arts.md
       - Clubs & Societies/.keep
       - Clubs & Societies/AV Crew.md
       - Clubs & Societies/Environmental Science Club.md
