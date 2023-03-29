@@ -43,3 +43,8 @@ The Nutrition and Food Science (NFS) Unit aims to nurture concerned citizens who
 
 The approach to the teaching and learning of Nutrition and Food Science involves inquiry-based learning. Students are tasked with real-world problems to investigate. They work in teams to plan, craft and create scientifically-informed diets for healthier lives.
 
+<u>Lower Secondary</u><br>
+The elective project for lower secondary includes an experiential learning task that provides students the opportunity to be food nutritionists to plan a proper diet for a fictitious character. Through this task, they learn to investigate claims, gather information, identify appropriate food choices, and apply the principles of culinary science creatively in food preparation and cooking. They also hone their teamwork and collaboration skills through this group task.
+
+<u>Upper Secondary</u><br>
+Students engage in coursework where they have the opportunities to apply scientific principles during food preparation and cooking. They also learn to appreciate the importance of using a variety of food commodities in food management and the issues of food security, including food safety and sustainable food consumption. They extend the learnt knowledge towards planning a food investigation, preparing, cooking and presenting dishes in a variety of contexts demonstrating a number of process skills in coursework.
