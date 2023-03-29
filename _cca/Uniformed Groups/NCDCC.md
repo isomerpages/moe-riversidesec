@@ -20,3 +20,17 @@ Over the June holiday, our unit sent in two teams to participate in the instruct
 
 <u>Other Events</u><br>
 Some of our cadets also took part in the National Day Parade, Urban Adventure Civil Defence Skill Challenge and the Precision Drill Competition.
+
+<img src="/images/ncdcc1.jpg" style="width:49%" align=left>
+<img src="/images/ncdcc2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ncdcc3.jpg" style="width:49%" align=left>
+<img src="/images/ncdcc4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/ncdcc5.jpg" style="width:70%">
+<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+ </figcaption>
+</figure>
