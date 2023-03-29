@@ -48,3 +48,15 @@ The elective project for lower secondary includes an experiential learning task 
 
 <u>Upper Secondary</u><br>
 Students engage in coursework where they have the opportunities to apply scientific principles during food preparation and cooking. They also learn to appreciate the importance of using a variety of food commodities in food management and the issues of food security, including food safety and sustainable food consumption. They extend the learnt knowledge towards planning a food investigation, preparing, cooking and presenting dishes in a variety of contexts demonstrating a number of process skills in coursework.
+
+<img src="/images/aes9.jpg" style="width:49%" align=left>
+<img src="/images/aes10.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/aes11.jpg" style="width:49%" align=left>
+<img src="/images/aes12.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/aes13.jpg" style="width:49%" align=left>
+<img src="/images/aes14.jpg" style="width:49%" align=right>
+<br clear="left"><br>
