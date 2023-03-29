@@ -28,15 +28,15 @@ One of our highlights for our AV crew members this year was providing support fo
 With the increase in demand for AV crew’s support for school activities and events, our members will get more hands-on training opportunities to hone their skills and foster teamwork among themselves.
 
 <img src="/images/av1.jpg" style="width:49%" align=left>
-<img src="/images/av2.pg" style="width:49%" align=right>
+<img src="/images/av2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/av3.pg" style="width:49%" align=left>
-<img src="/images/av4.pg" style="width:49%" align=right>
+<img src="/images/av3.jpg" style="width:49%" align=left>
+<img src="/images/av4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
 <figure>
-<img src="/images/av5jpg" style="width:90%">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<img src="/images/av5.jpg" style="width:60%">
+<figcaption>  Learning how to set up a condenser microphone
  </figcaption>
 </figure>
