@@ -24,3 +24,15 @@ Our Secondary 2 and 3 members took part in the inaugural student leadership conf
 
 <u>Videography Workshop</u><br>
 Our members attended a videography workshop to build their videography and post-production skills. They had a lot of fun as they learned the tips and tricks of producing better quality videos.
+
+<img src="/images/media1.jpg" style="width:49%" align=left>
+<img src="/images/media2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/media3.jpg" style="width:49%" align=left>
+<img src="/images/media4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/media5.jpg" style="width:49%" align=left>
+<img src="/images/media6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
