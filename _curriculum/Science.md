@@ -19,3 +19,17 @@ Students work collaboratively to solve a criminal case by applying scientific an
 
 <u>Competitions</u><br>
 Selected students participate in various competitions such as Elementz Science Project Competition and Science Olympiad Competitions to deepen their understanding of Science.
+
+<img src="/images/sci1.jpg" style="width:49%" align=left>
+<img src="/images/sci2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/sci3.jpg" style="width:49%" align=left>
+<img src="/images/sci4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/sci5.jpg" style="width:60%">
+<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+ </figcaption>
+</figure>
