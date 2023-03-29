@@ -17,3 +17,11 @@ Our dancers proudly showcased a performance titled, ‘Welcome The New Year’ a
 
 <u>35th Speech and Prize-Giving Day Performance</u><br>
 Our students showcased a performance titled Na Yi Nian (那一年）which chronicled the travails of a war. The dance depicted the importance of not giving up despite facing setbacks, and illustrated the importance of resilience.
+
+<img src="/images/cd1.jpg" style="width:49%" align=left>
+<img src="/images/cd2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cd3.jpg" style="width:49%" align=left>
+<img src="/images/cd4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
