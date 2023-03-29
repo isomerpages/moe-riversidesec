@@ -31,6 +31,6 @@ Some of our cadets also took part in the National Day Parade, Urban Adventure Ci
 
 <figure>
 <img src="/images/ncdcc5.jpg" style="width:70%">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption>  Affirmation Day for Secondary 1 cadets
  </figcaption>
 </figure>
