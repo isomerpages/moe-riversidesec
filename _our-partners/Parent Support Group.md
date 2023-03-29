@@ -112,3 +112,5 @@ Our PSG joined in the Riverside Experience and had the opportunity to host and s
 <img src="/images/open1.jpeg" style="width:49%" align=left>
 <img src="/images/open2.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
+
+###### <center>2023 Riverside PSG Executive Committee</center>
