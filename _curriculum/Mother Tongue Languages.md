@@ -45,3 +45,15 @@ TLEP is a 2-year programme offered to all Secondary 3 Tamil Literature students.
 3 \.  develop students to be effectively billingual to better serve the needs of our nation.
 
 We also partner the larger Tamil community in the school (Tamil Language Club) to deepen the exploration of the culture and roots of the Tamil language.
+
+<img src="/images/mt1.jpg" style="width:49%" align=left>
+<img src="/images/mt2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/mt3.jpg" style="width:49%" align=left>
+<img src="/images/mt4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/mt5.jpg" style="width:49%" align=left>
+<img src="/images/mt6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
