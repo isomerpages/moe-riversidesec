@@ -23,3 +23,17 @@ Arya Aditri Pani from 1 Service represented the school in the Robomission (Regul
 
 <u>Other Workshops</u><br>
 Besides robot building and programming, and doing Micro:bit microcontroller interfacing and programming, members were also introduced to a wide range of hands-on activities such as introductory Python coding and cloud computing that allowed them to stay abreast of the latest innovations in the world of computing. Our Secondary 4 members also organised a robotics workshop for the lower secondary members to introduce them to SCRATCH programming.
+
+<img src="/images/robo1.jpg" style="width:49%" align=left>
+<img src="/images/robo2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/robo3.jpg" style="width:49%" align=left>
+<img src="/images/robo4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<figure>
+<img src="/images/robo5.jpg" style="width:90%">
+<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+ </figcaption>
+</figure>
