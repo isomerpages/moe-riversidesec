@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/NCDCC.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/NCC (Sea).md
+      - Uniformed Groups/NCDCC.md
       - Clubs & Societies/.keep
       - Clubs & Societies/AV Crew.md
       - Clubs & Societies/Environmental Science Club.md
