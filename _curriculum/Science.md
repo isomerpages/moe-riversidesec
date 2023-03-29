@@ -3,25 +3,19 @@ title: Science
 permalink: /academic-curriculum/science/
 description: ""
 ---
+#### Aims and approach:
 
+The Science department aims to equip students with scientific knowledge and skills to become confident citizens in a technological world. We aim to nurture them to recognise and apply the scientific method to critically discern information and make sense of the experiences in their daily lives.
 
-  The Science department aims to equip students with scientific knowledge and skills that are relevant and useful in their daily lives.  
-  
+An inquiry-based approach is adopted for the teaching and learning of Science. Starting with a question, teachers guide students to construct their own knowledge through investigations, analysis of information, predictions and drawing conclusions. This approach is captured in the three practices of the revised Science Curriculum Framework:<br>
+1 \.  demonstrating Ways of Thinking and Doing in Science (WOTD);<br>
+2 \.  understanding the Nature of Scientific Knowledge (NOS); and<br>
+3 \.  relating Science, Technology, Society and Environment (STSE).
 
-The approach to the teaching and learning of Science involves an inquiry-based learning that begins with a question. Students construct their own knowledge as they engage in a variety of experiences that provide them an opportunity to investigate solutions. This approach is captured in the three practices of the revised Science Curriculum Framework:
+#### Key programmes:
 
-a.      Demonstrating Ways of Thinking and Doing in Science (WOTD);  
-b.      Understanding the Nature of Scientific Knowledge (NOS); and  
-c.      Relating Science, Technology, Society and Environment (STSE). 
+<u>Crime Scene Investigation (C.S.I)</u><br>
+Students work collaboratively to solve a criminal case by applying scientific and mathematical concepts. Through this, they learn how to apply the skills gained in the classroom to make sense of real-world tasks. They also hone their teamwork and communication skills. 
 
-#### Key Programmes  
-  
-
-**Crime Scene Investigation (C.S.I)**  
-Students work collaboratively to solve a case by applying scientific and mathematical concepts.  
-
-**Sustainability Activities**  
-To shift towards more sustainable lifestyles, students created their own bioplastics and electroplated their unwanted metal objects with copper using electrolysis, and upcycled them into more attractive accessories.  
-<br>
-**Competitions**  
-Selected students participate in various competitions such as Elementz Science Project Competition and Science Olympiad Competitions to deepen their understanding in Science.
+<u>Competitions</u><br>
+Selected students participate in various competitions such as Elementz Science Project Competition and Science Olympiad Competitions to deepen their understanding of Science.
