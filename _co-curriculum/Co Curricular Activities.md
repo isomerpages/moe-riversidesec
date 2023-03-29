@@ -25,24 +25,24 @@ description: ""
 
 #### Physical Sports
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/physical-sports/bad/">
 <img style="width:30%" align=left src="/images/ps1.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/physical-sports/bball/">
 <img style="width:30%" align=left src="/images/ps2.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/physical-sports/football/">
 <img style="width:30%" align=left src="/images/ps3.jpg">
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/physical-sports/netball/">
 <img style="width:30%" align=left src="/images/ps4.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/cca/physical-sports/softball/">
 <img style="width:30%" align=left src="/images/ps5.jpg">
 </a></p>
 <br clear=left>
