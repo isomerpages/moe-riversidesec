@@ -99,4 +99,10 @@ As our graduating Riversidians gathered for one last night of fun and laughter, 
 <img src="/images/grad4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
+**Parent-Child Bonding Activity – Prata Journey (12 November 2022)**  <br>
+The school and PSG organised a fun-filled activity aimed at bonding parents with their children. This year, they had an exciting time experiencing the art and science of prata making. They had the opportunity to flip pratas.
+
+<img src="/images/pj1.jpeg" style="width:49%" align=left>
+<img src="/images/pj2.eg" style="width:49%" align=right>
+<br clear="left"><br>
 
