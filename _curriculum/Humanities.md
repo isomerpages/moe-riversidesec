@@ -3,21 +3,21 @@ title: Humanities
 permalink: /academic-curriculum/humanities/
 description: ""
 ---
-The Humanities department aims to develop our students to become citizens of the world, who understand and appreciate diversity and global events.        
+#### Aims and approach:
 
-The approach to the teaching and learning of Humanities involves:  
-1.      Inquiry based approach to allow students to critically evaluate and analyse information so as to deepen 
-their understanding of the subject matter <br>
-2.      Paul's Wheel of Reasoning and Socratic Questioning so that students continue to reflect critically on the curriculum.            
+The Humanities department aims to develop our students to become globally competent citizens, who understand and appreciate the interconnectedness of the world and the complexities of the human experience.
 
-####   Key Programmes  
-  
+The approach to the teaching and learning of Humanities involves:<br>
+1 \.  inquiry-based approach to allow students to critically evaluate and analyse information to deepen their understanding of the subject matter; and<br>
+2 \.  Paul's Wheel of Reasoning and Socratic Questioning so that students build thinking and reflection schemas to examine information critically.
 
-**Be a Young Historian**  
-Students develop a better understanding of history through skits and games.  
+#### Key programmes:
 
-**Riverside Model United Nations**  
-Students not only practise public speaking, debating and writing skills, but also hone their critical thinking, teamwork and leadership abilities.  
+<u>Be a Young Historian</u><br>
+Through skits and games, students develop a deeper understanding of historical concepts such as change and continuity, as well as historical skills such as analysis of information and perspective-taking.
 
-**Competitions**  
-Selected students participate in the NUS Geography Challenge and NLB Historical Scene Investigation Challenge.
+<u>Riverside Model United Nations (RSMUN)</u><br>
+RSMUN is a signature experience in our Applied Learning Programme. Students hone their critical thinking and information gathering skills through the analysis of social issues. They learn how to discern and critically evaluate multiple sources, craft proposals, and put them forward clearly to the rest of the school. Through this experience, they also hone their teamwork and leadership abilities.
+
+<u>Competitions</u><br>
+Selected students participate in the History Challenge, NUS Geography Challenge and NLB Historical Scene Investigation Challenge.
