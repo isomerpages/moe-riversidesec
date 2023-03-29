@@ -46,3 +46,27 @@ description: ""
 <img style="width:30%" align=left src="/images/ps5.jpg">
 </a></p>
 <br clear=left>
+
+#### Uniformed Groups
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/ug1.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/ug2.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/ug3.jpg">
+</a></p>
+<br clear=left>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/ug4.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/ug5.jpg">
+</a></p>
+<br clear=left>
