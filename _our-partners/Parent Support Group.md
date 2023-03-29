@@ -127,3 +127,6 @@ Our PSG joined in the Riverside Experience and had the opportunity to host and s
 | Mdm Linda Lim  | EXCO Member  |
 | Mr Natarajan Kannan  | EXCO Member  |
 |   |   |
+
+If you have any further questions, please contact the teacher-in-charge of the PSG,<br>
+Mdm Rekha at [rekha\_veliappan@moe.edu.sg](mailto:rekha_veliappan@moe.edu.sg)
