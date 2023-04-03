@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/riverside.gif
+      background: /images/riverside-hero-banner.gif
       key_highlights:
         - title: Announcements
           description: Click here for latest announcments!
@@ -16,5 +16,3 @@ sections:
           description: Click here for useful links!
           url: /useful-links/dsa-2022-direct-school-admission
 ---
-
-
