@@ -2,15 +2,15 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - The Riverside Experience.md
+      - Full Subject Based Banding.md
+      - Student Leadership.md
       - Internationalism.md
       - Work Experience Programme.md
       - Riverside Integrated Skills Experience.md
-      - The Riverside Experience.md
-      - Full Subject Based Banding.md
       - A Future Ready Digital Learner/.keep
       - A Future Ready Digital Learner/A Future Ready Digital Learner.md
       - A Future Ready Digital Learner/Personalised Digital Learning Programme.md
-      - Student Leadership.md
       - A Creative Individual/.keep
       - A Creative Individual/Learning for Life Programme.md
       - A Creative Individual/Riverside Integrated Skills Experience.md
