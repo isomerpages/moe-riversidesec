@@ -4,4 +4,53 @@ permalink: /about-us/staff-directory/lead-and-senior-teachers/
 description: ""
 third_nav_title: Staff Directory
 ---
-<table class="ive_eobj_center iveo_table ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 819.556px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(85, 96, 245);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><b style="margin: 0px; outline: 0px; padding: 0px;">Name</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><b style="margin: 0px; outline: 0px; padding: 0px;">Designation</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><b style="margin: 0px; outline: 0px; padding: 0px;">Email</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(249, 249, 249);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Mr Lin Shaojie<span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">&nbsp;</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Lead Teacher Mathematics</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">lin_shaojie@moe.edu.sg&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Mdm Liu Liping<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Lead Teacher Chinese Language&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">liu _liping@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Mdm Haslinda Shafawi</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Senior Teacher Geography</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">haslinda_shafawi@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Miss Hesley Ismail<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Senior Teacher English</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">hesley_ismail@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Mr R Bala<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Senior Teacher Tamil Langauge</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">balasubramaniam_a@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Miss Tang Wai Yin</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Senior Teacher Biology&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">tang_wai_yin_a@moe.edu.sg</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nv9a{background-color:#960E12;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xuzz{background-color:#FFF;color:#343434;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nv9a"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Name</span></th>
+    <th class="tg-nv9a"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Designation</span></th>
+    <th class="tg-nv9a"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Lin Shaojie</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Lead Teacher Mathematics</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">lin_shaojie@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Liu Liping</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Lead Teacher Chinese Language</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">liu _liping@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Haslinda Shafawi</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Senior Teacher Geography</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">haslinda_shafawi@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Miss Hesley Ismail</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Senior Teacher English / English Literature</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">hesley_ismail@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr R Bala</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Senior Teacher Tamil Langauge</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">balasubramaniam_a@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Miss Tang Wai Yin</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Senior Teacher Biology</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tang_wai_yin_a@moe.edu.sg</span><br></td>
+  </tr>
+</tbody>
+</table>
