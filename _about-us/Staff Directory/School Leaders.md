@@ -4,5 +4,38 @@ permalink: /about-us/staff-directory/school-leaders/
 description: ""
 third_nav_title: Staff Directory
 ---
-
-<table class="ive_eobj_center iveo_table ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 819.556px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(85, 96, 245);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><b style="margin: 0px; outline: 0px; padding: 0px;">Name</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><b style="margin: 0px; outline: 0px; padding: 0px;">Designation</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><b style="margin: 0px; outline: 0px; padding: 0px;">Email</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Ms Tham Yoke Chun</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Principal</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><br style="margin: 0px; outline: 0px; padding: 0px;">riverside_ss@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(249, 249, 249);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Mr Derick Wong</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Vice-Principal</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><br style="margin: 0px; outline: 0px; padding: 0px;">riverside_ss@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><br style="margin: 0px; outline: 0px; padding: 0px;">Mr Chua Tung Kian<br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">Vice-Principal&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);">riverside_ss@moe.edu.sg</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2ske{background-color:#960E12;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-xuzz{background-color:#FFF;color:#343434;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2ske"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Name</span></th>
+    <th class="tg-2ske"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Designation</span></th>
+    <th class="tg-2ske"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Tham Yoke Chun</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Principal</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">riverside_ss@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Derick Wong</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Vice-Principal</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">riverside_ss@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Tom Chan</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Vice-Principal</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">riverside_ss@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
