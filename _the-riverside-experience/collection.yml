@@ -2,6 +2,7 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - Internationalism.md
       - Work Experience Programme.md
       - Riverside Integrated Skills Experience.md
       - The Riverside Experience.md
