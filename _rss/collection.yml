@@ -2,4 +2,5 @@ collections:
   rss:
     output: true
     order:
+      - Highlights/.keep
       - Full Home–based Learning.md
