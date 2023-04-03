@@ -2,8 +2,8 @@ collections:
   the-riverside-experience:
     output: true
     order:
-      - Personalised Digital Learning Programme.md
       - The Riverside Experience.md
+      - Personalised Digital Learning Programme.md
       - Full Subject Based Banding.md
       - Student Leadership.md
       - Internationalism.md
