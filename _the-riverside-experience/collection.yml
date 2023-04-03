@@ -2,6 +2,7 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - Student Leadership.md
       - The Riverside Experience.md
       - Full Subject Based Banding.md
       - A Future Ready Digital Learner/.keep
