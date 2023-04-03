@@ -2,6 +2,7 @@ collections:
   the-riverside-experience:
     output: true
     order:
+      - Work Experience Programme.md
       - Riverside Integrated Skills Experience.md
       - The Riverside Experience.md
       - Full Subject Based Banding.md
