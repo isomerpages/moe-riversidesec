@@ -17,11 +17,5 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 | 4  | **Visual Arts, Design and Media**  | * **Media**  | Students will:  <br> * **Hone their skills in photography and videography.** <br> * **Represent the school at competitions.** <br> * **Attend workshops.** <br> * **Support major school events.** |
 | 5  | **Science, Technology, Engineering and Mathematics**  | * **STEM**  | Students will: <br> * **Enhance their coding literacy.** <br> * **Develop problem-solving skills and design solutions to real-world problems.** <br> * **Be developed as stewards of environment and changemakers in sustainability.** <br> * **Represent the school at national robotics competitions.** <br> * **Demonstrate leadership capabilities.** |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+##### Selection Criteria and Process
