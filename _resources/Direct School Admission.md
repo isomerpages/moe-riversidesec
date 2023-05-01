@@ -46,3 +46,5 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 | **24 Jul 2023 - 17 Aug 2023**  | Auditions / interviews for short-listed applicants  |
 | **11 Sep 2023**  | Audition / interview results will be notified to applicants via **email**  |
 |   |   |
+
+For further enquiries, you may contact us at&nbsp; **[riverside\_ss@moe.edu.sg](mailto:riverside_ss@moe.edu.sg)** or 62699631 (General Office).
