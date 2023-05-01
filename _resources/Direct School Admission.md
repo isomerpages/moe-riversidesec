@@ -19,3 +19,20 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 |   |   |   |   |
 
 ##### Selection Criteria and Process
+
+| **DSA Main Category**  | **DSA Talent Area**  | **Selection Criteria**  | **Selection Process**  |
+|:-:|---|---|---|
+| **Leadership and Uniformed Groups**  | **Leadership and Character**  | * **Applicant must hold leadership roles, for e.g., prefects and CCA leaders, in his/her primary school, and has led school projects.** <br><br> The school will refer to: <br> * **School reports - Academic ability and conduct indicated in school reports and other specific teacher reports.** <br> * **Any other student leadership-related records of participation and level of representation.**  |* **Interview: in-person** <br><br> &gt; Assessment of attitude and aptitude  |
+| **Language and Humanities**  | **Tamil Language**  | * **Applicant must be able to demonstrate strong interest and talent beyond the abilities of students in the same age group and/or have a history of consistent high academic achievements in Higher Tamil Language.** <br><br> The school will refer to: <br> * **School reports - Academic ability and conduct indicated in school reports and other specific teacher reports.** <br> * **Accomplishment - Evidence in the form of awards or experiences in relevant contexts (e.g. competitions at national level) or any equivalent demonstration of talent.** |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
