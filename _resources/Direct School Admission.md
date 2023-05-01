@@ -9,12 +9,12 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 
 If you are a Primary Six pupil, you can be considered for DSA if you are talented in one of the following DSA talent areas:
 
-|   |   |   |   |
+| **S/N**  | **DSA Main Category**  | DSA Talent Area<br>(offered in Riverside<br>Secondary)  | **Programmes, activities and/or opportunities that students can expect to participate in for each talent area**  |
 |:-:|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 1  | **Leadership and Uniformed Groups**  |  * **Leadership and Character**  |   |
+| 2  | **Language and Humanities**  |  * **Tamil Language**  |   |
+| 3  | **Performing Arts**  | * **Choir**<br>*   **Concert Band**  |   |
+| 4  | **Visual Arts, Design and Media**  | * **Media**  |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
