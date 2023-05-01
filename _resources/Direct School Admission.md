@@ -38,3 +38,11 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
     The application is free-of-charge.
 
 * For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+| **Date**  |  **Events** |
+|:-:|---|
+| **4 May 2023, 11am - 31 May 2023, 3pm**  | Application period  |
+| **14 July 2023**  | Applicants will be notified via **email**  |
+| **24 Jul 2023 - 17 Aug 2023**  | Auditions / interviews for short-listed applicants  |
+| **11 Sep 2023**  | Audition / interview results will be notified to applicants via **email**  |
+|   |   |
