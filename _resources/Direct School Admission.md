@@ -28,11 +28,13 @@ If you are a Primary Six pupil, you can be considered for DSA if you are talente
 | **Visual Arts, Design and Media**  | **Media**  | * **Applicant must be able to demonstrate strong interest and talent in the areas of photography, videography, and media production beyond the abilities of students in the same age group.** <br><br> The school will refer to: <br> * **School reports - Academic ability and conduct indicated in school reports and other specific teacher reports.** <br> * **Qualification(s) in photography, videography and media production, e.g., relevant certificates (if any).** <br> * **Accomplishment - Evidence in the form of awards or experiences in relevant contexts (e.g. competitions, school/public showcases).**  | * **Audition and interview: in-person** <br><br> &gt; On-site assessment <br> &gt; Demonstration of aptitude and potential <br> &gt; Assessment of attitude and suitability  |
 | **Science, Technology, Engineering and Mathematics**  | **STEM**  | * **Applicant must be able to demonstrate strong interest and talent in an area of STEM (e.g. robotics/programming, Math and Science), beyond the abilities of students in the same age group.** <br><br> The school will refer to: <br> * **School reports - Academic ability and conduct indicated in school reports and other specific teacher reports.** <br> * **Qualification(s) in robotics/programming (Lego EV3, Mindstorms, Spike Prime), e.g., relevant certificates (if any).** <br> * **Accomplishment - Evidence in the form of awards or experiences in relevant contexts such as STEM competitions or projects in school/external events (if any).**  | * **Audition and interview: in-person** <br><br> &gt; On-site assessment <br> &gt; Demonstration of aptitude and potential <br> &gt; Assessment of attitude and suitability  |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+##### Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+
+*   Detailed information can be downloaded from <u>Riverside Secondary School 2023 Direct School Admission Information.</u>
+
+*   Application for DSA-Sec will be through the online **DSA-Sec Portal.**&nbsp;
+    The application is free-of-charge.
+
+* For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
