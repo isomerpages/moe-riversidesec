@@ -1,0 +1,12 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Aesthetics.md
+      - Design and Technology.md
+      - English and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md

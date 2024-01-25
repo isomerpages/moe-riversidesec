@@ -1,0 +1,8 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - National Digital Literacy Programme.md
+      - President's Award for Teachers 2022.md
+      - DSA 2022 (Direct School Admission).md
+      - Check us out on Facebook.md

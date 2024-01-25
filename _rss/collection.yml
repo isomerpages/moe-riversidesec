@@ -1,0 +1,6 @@
+collections:
+  rss:
+    output: true
+    order:
+      - Highlights/Full Home–based Learning.md
+      - Highlights/.keep

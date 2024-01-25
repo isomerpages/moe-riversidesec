@@ -1,0 +1,14 @@
+logo: /images/school logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co–Curriculum
+    collection: co-curriculum
+  - title: The Riverside Experience
+    collection: the-riverside-experience
+  - title: Our Partners
+    collection: our-partners
+  - title: Resources
+    collection: resources
